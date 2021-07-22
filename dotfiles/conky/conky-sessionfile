@@ -1,0 +1,1 @@
+conky -c /home/shima/.config/conky/AUR-Skeleton-Plasma.conkyrc & sleep 1s
