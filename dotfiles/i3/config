@@ -1050,3 +1050,13 @@ bar {
 
 #settting shortcut
 bindsym $mod+shift+s exec systemsettings5
+
+
+
+#############################################
+#flameshot
+#snap screen to clipboard
+bindsym $mod+p exec flameshot screen -c &
+
+#snap screen with GUI
+bindsym $mod+shift+p exec flameshot gui &
