@@ -1045,3 +1045,8 @@ bar {
 
 # get the mouse out of the way with unclutter
 #exec --no-startup-id unclutter
+#
+
+
+#settting shortcut
+bindsym $mod+shift+s exec systemsettings5
