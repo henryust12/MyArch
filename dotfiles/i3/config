@@ -1060,3 +1060,8 @@ bindsym $mod+p exec flameshot screen -c &
 
 #snap screen with GUI
 bindsym $mod+shift+p exec flameshot gui &
+
+
+
+#exec autorun keyboard change function
+exec_always --no-startup-id xmodmap -e "keycode 62 = Escape"
