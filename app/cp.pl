@@ -1,4 +1,4 @@
-my @args = ( 'cat -n ~/Documents/myarch/TokenCODE | sed -n 9p ~/Documents/myarch/TokenCODE | xclip -selection "clipboard" -rmlastnl' );
+my @args = ( 'cat -n ~/token | sed -n 1p ~/token | xclip -selection "clipboard" -rmlastnl' );
 
 exec @args;               # subject to shell escapes
                             # if @args == 1
