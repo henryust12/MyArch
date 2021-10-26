@@ -1,0 +1,9 @@
+#!/bin/bash
+
+git status
+
+echo -n "Enter Message : "
+read msg
+
+git add -A && git commit -m "$msg" && git push
+
