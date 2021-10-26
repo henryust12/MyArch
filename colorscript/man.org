@@ -1,0 +1,40 @@
+#+TITLE: colorscript
+#+AUTHOR: Derek Taylor (https://gitlab.com/dwt1/shell-color-scripts/)
+
+* NAME
+colorscript - run various shell color scripts
+
+* SYNOPSIS
+colorscript [-OPTION] [SCRIPT NAME]
+
+* DESCRIPTION
+colorscript is the program that selects and runs the scripts that were installed with shell-color-scripts.  colorscript can be used to run a specific shell color script, or you can use colorscript to run a random shell color script.  Many users will want to add the appropriate colorscript command to their bash/fish/zsh configs so that they always get a shell color script when they launch a terminal or enter the shell.
+
+* OPTIONS
+** -h, --help, help
+Print this help.
+** -l, --list, list
+List all installed color scripts.
+** -r, --random, random
+Run a random color script.
+** -e, --exec, exec
+Run specified color script by SCRIPT NAME or INDEX.
+** -a, --all, all
+Run all color scripts and list their SCRIPT NAMEs
+
+* FILES
+** /usr/bin/colorscript
+The colorscript binary.
+** /opt/shell-color-scripts
+The shell color scripts directory.
+
+* EXAMPLES
+** colorscript random
+Runs a random shell colorscript.  Add this command to your bash/fish/zsh config file, and now when you open a terminal or start a new shell, you will get a random shell color script displayed.
+** colorscript -l
+Get a complete listing of available shell color scripts.  You get the INDEX (number) and the NAME.
+** colorscript -e [INDEX or NAME]
+Runs a specific shell color script.
+
+* AUTHOR
+Derek Taylor (https://gitlab.com/dwt1/shell-color-scripts) 
