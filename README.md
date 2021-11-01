@@ -8,3 +8,7 @@
 
 
 ### Just a repo to containt my Arch Linux Settings, shellapp, dotfiles, etc.
+
+
+# Link:  
+- ![Fix My Laptop WiFi](https://github.com/tomaspinho/rtl8821ce)
