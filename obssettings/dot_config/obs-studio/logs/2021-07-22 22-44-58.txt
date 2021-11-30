@@ -1,0 +1,746 @@
+22時44分58秒.757: CPU Name: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx
+22時44分58秒.757: CPU Speed: 1957.159MHz
+22時44分58秒.758: Physical Cores: 4, Logical Cores: 8
+22時44分58秒.758: Physical Memory: 15724MB Total, 12231MB Free
+22時44分58秒.758: Kernel Version: Linux 5.10.52-1-lts
+22時44分58秒.758: Distribution: ArcoLinux Unknown
+22時44分58秒.758: Session Type: x11
+22時44分58秒.758: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.12
+22時44分58秒.761: Portable mode: false
+22時44分58秒.932: OBS 27.0.1.r52.g0698eeda9 (linux)
+22時44分58秒.932: ---------------------------------
+22時44分58秒.938: ---------------------------------
+22時44分58秒.938: audio settings reset:
+22時44分58秒.938: 	samples per sec: 48000
+22時44分58秒.938: 	speakers:        2
+22時44分58秒.954: ---------------------------------
+22時44分58秒.954: Initializing OpenGL...
+22時44分59秒.092: Loading up OpenGL on adapter AMD AMD Radeon(TM) Vega 8 Graphics (RAVEN, DRM 3.40.0, 5.10.52-1-lts, LLVM 12.0.1)
+22時44分59秒.092: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.1.5, shading language 4.60
+22時44分59秒.224: ---------------------------------
+22時44分59秒.224: video settings reset:
+22時44分59秒.224: 	base resolution:   1920x1080
+22時44分59秒.224: 	output resolution: 1280x720
+22時44分59秒.224: 	downscale filter:  Bicubic
+22時44分59秒.224: 	fps:               30/1
+22時44分59秒.224: 	format:            NV12
+22時44分59秒.224: 	YUV mode:          709/Partial
+22時44分59秒.224: NV12 texture support not available
+22時44分59秒.231: Audio monitoring device:
+22時44分59秒.231: 	name: Default
+22時44分59秒.231: 	id: default
+22時44分59秒.232: ---------------------------------
+22時44分59秒.243: Failed to load 'en-US' text for module: 'decklink-captions.so'
+22時44分59秒.253: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+22時44分59秒.780: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+22時44分59秒.780: No blackmagic support
+22時44分59秒.850: v4l2loopback not installed, virtual camera disabled
+22時44分59秒.872: [obs-browser]: Version 2.14.3
+22時44分59秒.872: [obs-browser]: CEF Version 88.2.8+ge484012+chromium-88.0.4324.150
+22時44分59秒.923: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+22時44分59秒.923: 
+22時44分59秒.923: FFMPEG VAAPI supported
+22時44分59秒.955: VLC found, VLC video source enabled
+22時44分59秒.956: ---------------------------------
+22時44分59秒.956:   Loaded Modules:
+22時44分59秒.956:     vlc-video.so
+22時44分59秒.956:     text-freetype2.so
+22時44分59秒.956:     rtmp-services.so
+22時44分59秒.956:     obs-x264.so
+22時44分59秒.956:     obs-vst.so
+22時44分59秒.956:     obs-transitions.so
+22時44分59秒.956:     obs-outputs.so
+22時44分59秒.956:     obs-libfdk.so
+22時44分59秒.956:     obs-filters.so
+22時44分59秒.956:     obs-ffmpeg.so
+22時44分59秒.956:     obs-browser.so
+22時44分59秒.956:     linux-v4l2.so
+22時44分59秒.956:     linux-pulseaudio.so
+22時44分59秒.956:     linux-jack.so
+22時44分59秒.956:     linux-decklink.so
+22時44分59秒.956:     linux-capture.so
+22時44分59秒.956:     linux-alsa.so
+22時44分59秒.956:     image-source.so
+22時44分59秒.956:     frontend-tools.so
+22時44分59秒.956:     decklink-ouput-ui.so
+22時44分59秒.956:     decklink-captions.so
+22時44分59秒.956: ---------------------------------
+22時44分59秒.956: ==== Startup complete ===============================================
+22時44分59秒.961: No scene file found, creating default scene
+22時44分59秒.962: All scene data cleared
+22時44分59秒.962: ------------------------------------------------
+22時44分59秒.969: pulse-input: Server name: 'pulseaudio 14.2'
+22時44分59秒.969: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+22時44分59秒.969: pulse-input: Started recording from 'alsa_output.pci-0000_05_00.6.analog-stereo.monitor'
+22時44分59秒.970: pulse-input: Server name: 'pulseaudio 14.2'
+22時44分59秒.970: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+22時44分59秒.970: pulse-input: Started recording from 'alsa_input.pci-0000_05_00.6.analog-stereo'
+22時44分59秒.970: Switched to scene 'Scene'
+22時44分59秒.970: Failed to glob scene collections
+22時45分00秒.541: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+22時45分00秒.541: 
+22時45分09秒.130: 
+22時45分09秒.130: ==== Auto-config wizard testing commencing ======
+
+22時45分09秒.195: ---------------------------------
+22時45分09秒.195: video settings reset:
+22時45分09秒.195: 	base resolution:   1920x1080
+22時45分09秒.195: 	output resolution: 1920x1080
+22時45分09秒.195: 	downscale filter:  Bicubic
+22時45分09秒.195: 	fps:               60/1
+22時45分09秒.195: 	format:            NV12
+22時45分09秒.195: 	YUV mode:          709/Partial
+22時45分09秒.195: NV12 texture support not available
+22時45分09秒.197: ---------------------------------
+22時45分09秒.197: [x264 encoder: 'test_x264'] preset: veryfast
+22時45分09秒.197: [x264 encoder: 'test_x264'] profile: high
+22時45分09秒.202: [x264 encoder: 'test_x264'] settings:
+22時45分09秒.202: 	rate_control: CRF
+22時45分09秒.202: 	bitrate:      0
+22時45分09秒.202: 	buffer size:  0
+22時45分09秒.202: 	crf:          20
+22時45分09秒.202: 	fps_num:      60
+22時45分09秒.202: 	fps_den:      1
+22時45分09秒.202: 	width:        1920
+22時45分09秒.202: 	height:       1080
+22時45分09秒.202: 	keyint:       250
+22時45分09秒.202: 
+22時45分09秒.219: ---------------------------------
+22時45分09秒.219: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+22時45分09秒.219: 
+22時45分14秒.221: Output 'null': stopping
+22時45分14秒.221: Output 'null': Total frames output: 223
+22時45分14秒.221: Output 'null': Total drawn frames: 300
+22時45分14秒.478: Video stopped, number of skipped frames due to encoding lag: 217/266 (81.6%)
+22時45分14秒.715: ---------------------------------
+22時45分14秒.715: video settings reset:
+22時45分14秒.715: 	base resolution:   1920x1080
+22時45分14秒.715: 	output resolution: 1920x1080
+22時45分14秒.715: 	downscale filter:  Bicubic
+22時45分14秒.715: 	fps:               30/1
+22時45分14秒.715: 	format:            NV12
+22時45分14秒.715: 	YUV mode:          709/Partial
+22時45分14秒.715: NV12 texture support not available
+22時45分14秒.716: ---------------------------------
+22時45分14秒.716: [x264 encoder: 'test_x264'] preset: veryfast
+22時45分14秒.716: [x264 encoder: 'test_x264'] profile: high
+22時45分14秒.716: [x264 encoder: 'test_x264'] settings:
+22時45分14秒.716: 	rate_control: CRF
+22時45分14秒.716: 	bitrate:      0
+22時45分14秒.716: 	buffer size:  0
+22時45分14秒.716: 	crf:          20
+22時45分14秒.716: 	fps_num:      30
+22時45分14秒.716: 	fps_den:      1
+22時45分14秒.716: 	width:        1920
+22時45分14秒.716: 	height:       1080
+22時45分14秒.716: 	keyint:       250
+22時45分14秒.716: 
+22時45分14秒.721: ---------------------------------
+22時45分14秒.721: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+22時45分14秒.721: 
+22時45分19秒.737: Output 'null': stopping
+22時45分19秒.737: Output 'null': Total frames output: 104
+22時45分19秒.737: Output 'null': Total drawn frames: 149 (150 attempted)
+22時45分19秒.737: Output 'null': Number of lagged frames due to rendering lag/stalls: 1 (0.7%)
+22時45分20秒.014: Video stopped, number of skipped frames due to encoding lag: 59/135 (43.7%)
+22時45分20秒.416: ---------------------------------
+22時45分20秒.416: video settings reset:
+22時45分20秒.416: 	base resolution:   1920x1080
+22時45分20秒.416: 	output resolution: 1280x720
+22時45分20秒.416: 	downscale filter:  Bicubic
+22時45分20秒.416: 	fps:               60/1
+22時45分20秒.416: 	format:            NV12
+22時45分20秒.416: 	YUV mode:          709/Partial
+22時45分20秒.416: NV12 texture support not available
+22時45分20秒.418: ---------------------------------
+22時45分20秒.418: [x264 encoder: 'test_x264'] preset: veryfast
+22時45分20秒.418: [x264 encoder: 'test_x264'] profile: high
+22時45分20秒.418: [x264 encoder: 'test_x264'] settings:
+22時45分20秒.418: 	rate_control: CRF
+22時45分20秒.418: 	bitrate:      0
+22時45分20秒.418: 	buffer size:  0
+22時45分20秒.418: 	crf:          20
+22時45分20秒.418: 	fps_num:      60
+22時45分20秒.418: 	fps_den:      1
+22時45分20秒.418: 	width:        1280
+22時45分20秒.418: 	height:       720
+22時45分20秒.418: 	keyint:       250
+22時45分20秒.418: 
+22時45分20秒.422: ---------------------------------
+22時45分20秒.423: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+22時45分20秒.423: 
+22時45分25秒.423: Output 'null': stopping
+22時45分25秒.423: Output 'null': Total frames output: 242
+22時45分25秒.423: Output 'null': Total drawn frames: 299 (300 attempted)
+22時45分25秒.424: Output 'null': Number of lagged frames due to rendering lag/stalls: 1 (0.3%)
+22時45分25秒.617: Video stopped, number of skipped frames due to encoding lag: 180/276 (65.2%)
+22時45分25秒.802: ---------------------------------
+22時45分25秒.802: video settings reset:
+22時45分25秒.802: 	base resolution:   1920x1080
+22時45分25秒.802: 	output resolution: 1280x720
+22時45分25秒.802: 	downscale filter:  Bicubic
+22時45分25秒.802: 	fps:               30/1
+22時45分25秒.802: 	format:            NV12
+22時45分25秒.802: 	YUV mode:          709/Partial
+22時45分25秒.802: NV12 texture support not available
+22時45分25秒.804: ---------------------------------
+22時45分25秒.804: [x264 encoder: 'test_x264'] preset: veryfast
+22時45分25秒.804: [x264 encoder: 'test_x264'] profile: high
+22時45分25秒.804: [x264 encoder: 'test_x264'] settings:
+22時45分25秒.804: 	rate_control: CRF
+22時45分25秒.804: 	bitrate:      0
+22時45分25秒.804: 	buffer size:  0
+22時45分25秒.804: 	crf:          20
+22時45分25秒.804: 	fps_num:      30
+22時45分25秒.804: 	fps_den:      1
+22時45分25秒.804: 	width:        1280
+22時45分25秒.804: 	height:       720
+22時45分25秒.804: 	keyint:       250
+22時45分25秒.804: 
+22時45分25秒.808: ---------------------------------
+22時45分25秒.809: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+22時45分25秒.809: 
+22時45分30秒.826: Output 'null': stopping
+22時45分30秒.827: Output 'null': Total frames output: 108
+22時45分30秒.827: Output 'null': Total drawn frames: 150
+22時45分30秒.880: Video stopped, number of skipped frames due to encoding lag: 37/138 (26.8%)
+22時45分31秒.207: ---------------------------------
+22時45分31秒.207: video settings reset:
+22時45分31秒.207: 	base resolution:   1920x1080
+22時45分31秒.207: 	output resolution: 852x480
+22時45分31秒.207: 	downscale filter:  Bicubic
+22時45分31秒.207: 	fps:               60/1
+22時45分31秒.207: 	format:            NV12
+22時45分31秒.207: 	YUV mode:          709/Partial
+22時45分31秒.207: NV12 texture support not available
+22時45分31秒.208: ---------------------------------
+22時45分31秒.208: [x264 encoder: 'test_x264'] preset: veryfast
+22時45分31秒.208: [x264 encoder: 'test_x264'] profile: high
+22時45分31秒.208: [x264 encoder: 'test_x264'] settings:
+22時45分31秒.208: 	rate_control: CRF
+22時45分31秒.208: 	bitrate:      0
+22時45分31秒.208: 	buffer size:  0
+22時45分31秒.208: 	crf:          20
+22時45分31秒.208: 	fps_num:      60
+22時45分31秒.208: 	fps_den:      1
+22時45分31秒.208: 	width:        852
+22時45分31秒.208: 	height:       480
+22時45分31秒.208: 	keyint:       250
+22時45分31秒.208: 
+22時45分31秒.212: ---------------------------------
+22時45分31秒.212: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+22時45分31秒.212: 
+22時45分36秒.213: Output 'null': stopping
+22時45分36秒.213: Output 'null': Total frames output: 272
+22時45分36秒.213: Output 'null': Total drawn frames: 300
+22時45分36秒.258: ---------------------------------
+22時45分36秒.258: video settings reset:
+22時45分36秒.258: 	base resolution:   1920x1080
+22時45分36秒.258: 	output resolution: 852x480
+22時45分36秒.258: 	downscale filter:  Bicubic
+22時45分36秒.258: 	fps:               30/1
+22時45分36秒.258: 	format:            NV12
+22時45分36秒.258: 	YUV mode:          709/Partial
+22時45分36秒.259: NV12 texture support not available
+22時45分36秒.260: ---------------------------------
+22時45分36秒.260: [x264 encoder: 'test_x264'] preset: veryfast
+22時45分36秒.260: [x264 encoder: 'test_x264'] profile: high
+22時45分36秒.260: [x264 encoder: 'test_x264'] settings:
+22時45分36秒.260: 	rate_control: CRF
+22時45分36秒.260: 	bitrate:      0
+22時45分36秒.260: 	buffer size:  0
+22時45分36秒.260: 	crf:          20
+22時45分36秒.260: 	fps_num:      30
+22時45分36秒.260: 	fps_den:      1
+22時45分36秒.260: 	width:        852
+22時45分36秒.260: 	height:       480
+22時45分36秒.260: 	keyint:       250
+22時45分36秒.260: 
+22時45分36秒.263: ---------------------------------
+22時45分36秒.264: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+22時45分36秒.264: 
+22時45分41秒.264: Output 'null': stopping
+22時45分41秒.264: Output 'null': Total frames output: 123
+22時45分41秒.264: Output 'null': Total drawn frames: 150
+22時45分41秒.360: ---------------------------------
+22時45分41秒.360: video settings reset:
+22時45分41秒.360: 	base resolution:   1920x1080
+22時45分41秒.360: 	output resolution: 640x360
+22時45分41秒.360: 	downscale filter:  Bicubic
+22時45分41秒.360: 	fps:               60/1
+22時45分41秒.360: 	format:            NV12
+22時45分41秒.360: 	YUV mode:          709/Partial
+22時45分41秒.360: NV12 texture support not available
+22時45分41秒.361: ---------------------------------
+22時45分41秒.361: [x264 encoder: 'test_x264'] preset: veryfast
+22時45分41秒.361: [x264 encoder: 'test_x264'] profile: high
+22時45分41秒.361: [x264 encoder: 'test_x264'] settings:
+22時45分41秒.361: 	rate_control: CRF
+22時45分41秒.361: 	bitrate:      0
+22時45分41秒.361: 	buffer size:  0
+22時45分41秒.361: 	crf:          20
+22時45分41秒.361: 	fps_num:      60
+22時45分41秒.361: 	fps_den:      1
+22時45分41秒.361: 	width:        640
+22時45分41秒.361: 	height:       360
+22時45分41秒.361: 	keyint:       250
+22時45分41秒.361: 
+22時45分41秒.364: ---------------------------------
+22時45分41秒.365: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+22時45分41秒.365: 
+22時45分46秒.365: Output 'null': stopping
+22時45分46秒.365: Output 'null': Total frames output: 274
+22時45分46秒.365: Output 'null': Total drawn frames: 300
+22時45分46秒.412: ---------------------------------
+22時45分46秒.412: video settings reset:
+22時45分46秒.412: 	base resolution:   1920x1080
+22時45分46秒.412: 	output resolution: 1280x720
+22時45分46秒.412: 	downscale filter:  Bicubic
+22時45分46秒.412: 	fps:               30/1
+22時45分46秒.412: 	format:            NV12
+22時45分46秒.412: 	YUV mode:          709/Partial
+22時45分46秒.412: NV12 texture support not available
+22時54分26秒.015: ---------------------------------
+22時54分26秒.015: video settings reset:
+22時54分26秒.015: 	base resolution:   1920x1080
+22時54分26秒.015: 	output resolution: 852x480
+22時54分26秒.015: 	downscale filter:  Bicubic
+22時54分26秒.015: 	fps:               60/1
+22時54分26秒.015: 	format:            NV12
+22時54分26秒.015: 	YUV mode:          709/Partial
+22時54分26秒.015: NV12 texture support not available
+22時54分26秒.018: 
+22時54分26秒.018: ==== Auto-config wizard testing stopping ========
+
+22時54分36秒.870: Source 'Scene' renamed to 'screen'
+22時54分46秒.770: xshm-input: Geometry 1920x1080 @ 0,0
+22時54分46秒.781: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'screen'
+22時54分54秒.598: User added scene 'virtual box'
+22時54分54秒.599: User switched to scene 'virtual box'
+22時54分58秒.464: User switched to scene 'screen'
+22時54分58秒.928: User switched to scene 'virtual box'
+22時55分02秒.361: User switched to scene 'screen'
+22時55分03秒.144: User switched to scene 'virtual box'
+22時58分08秒.599: User added source 'virt' (xcomposite_input) to scene 'virtual box'
+22時58分08秒.613: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+22時58分08秒.615: xcompcap: [window-capture: 'virt'] update settings:
+22時58分08秒.615: 	title: DistroWatch.com: Put the fun back into computing. Use Linux, BSD. — Mozilla Firefox
+22時58分08秒.615: 	class: Navigator
+22時58分08秒.615: 	Bit depth: 32
+22時58分08秒.615: 	Found proper GLXFBConfig (in 368): yes
+22時58分08秒.615: 
+22時58分09秒.146: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+22時58分09秒.148: xcompcap: [window-capture: 'virt'] update settings:
+22時58分09秒.148: 	title: DistroWatch.com: Put the fun back into computing. Use Linux, BSD. — Mozilla Firefox
+22時58分09秒.148: 	class: Navigator
+22時58分09秒.148: 	Bit depth: 32
+22時58分09秒.148: 	Found proper GLXFBConfig (in 368): yes
+22時58分09秒.148: 
+22時58分11秒.079: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+22時58分11秒.081: xcompcap: [window-capture: 'virt'] update settings:
+22時58分11秒.081: 	title: server [Running] - Oracle VM VirtualBox
+22時58分11秒.081: 	class: VirtualBox Machine
+22時58分11秒.081: 	Bit depth: 24
+22時58分11秒.081: 	Found proper GLXFBConfig (in 368): yes
+22時58分11秒.081: 
+22時58分11秒.563: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+22時58分11秒.564: xcompcap: [window-capture: 'virt'] update settings:
+22時58分11秒.564: 	title: server [Running] - Oracle VM VirtualBox
+22時58分11秒.564: 	class: VirtualBox Machine
+22時58分11秒.564: 	Bit depth: 24
+22時58分11秒.564: 	Found proper GLXFBConfig (in 368): yes
+22時58分11秒.564: 
+22時58分12秒.818: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+22時58分12秒.826: xcompcap: [window-capture: 'virt'] update settings:
+22時58分12秒.826: 	title: server [Running] - Oracle VM VirtualBox
+22時58分12秒.826: 	class: VirtualBox Machine
+22時58分12秒.826: 	Bit depth: 24
+22時58分12秒.826: 	Found proper GLXFBConfig (in 368): yes
+22時58分12秒.826: 
+22時58分20秒.235: xcompcap: [window-capture: 'virt'] update settings:
+22時58分20秒.235: 	title: server [Running] - Oracle VM VirtualBox
+22時58分20秒.235: 	class: VirtualBox Machine
+22時58分20秒.235: 	Bit depth: 24
+22時58分20秒.235: 	Found proper GLXFBConfig (in 368): yes
+22時58分20秒.235: 
+22時58分34秒.665: User added scene 'Browser'
+22時58分34秒.667: User switched to scene 'Browser'
+22時58分42秒.174: User added source 'firefox' (xcomposite_input) to scene 'Browser'
+22時58分42秒.198: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+22時58分42秒.201: xcompcap: [window-capture: 'firefox'] update settings:
+22時58分42秒.201: 	title: DistroWatch.com: Put the fun back into computing. Use Linux, BSD. — Mozilla Firefox
+22時58分42秒.201: 	class: Navigator
+22時58分42秒.201: 	Bit depth: 32
+22時58分42秒.201: 	Found proper GLXFBConfig (in 368): yes
+22時58分42秒.201: 
+22時58分42秒.713: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+22時58分42秒.715: xcompcap: [window-capture: 'firefox'] update settings:
+22時58分42秒.715: 	title: DistroWatch.com: Put the fun back into computing. Use Linux, BSD. — Mozilla Firefox
+22時58分42秒.715: 	class: Navigator
+22時58分42秒.715: 	Bit depth: 32
+22時58分42秒.715: 	Found proper GLXFBConfig (in 368): yes
+22時58分42秒.715: 
+22時58分46秒.963: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+22時58分46秒.965: xcompcap: [window-capture: 'firefox'] update settings:
+22時58分46秒.965: 	title: DistroWatch.com: Put the fun back into computing. Use Linux, BSD. — Mozilla Firefox
+22時58分46秒.965: 	class: Navigator
+22時58分46秒.965: 	Bit depth: 32
+22時58分46秒.965: 	Found proper GLXFBConfig (in 368): yes
+22時58分46秒.965: 
+22時58分58秒.224: User switched to scene 'virtual box'
+22時59分01秒.012: User switched to scene 'Browser'
+22時59分01秒.621: User switched to scene 'screen'
+22時59分02秒.221: User switched to scene 'Browser'
+22時59分05秒.870: User added scene 'camera'
+22時59分05秒.871: User switched to scene 'camera'
+22時59分13秒.374: v4l2-input: Start capture from 
+22時59分13秒.374: v4l2-input: Unable to open device
+22時59分13秒.374: v4l2-input: Initialization failed
+22時59分13秒.378: User added source 'webcam' (v4l2_input) to scene 'camera'
+22時59分13秒.388: v4l2-input: /dev/video1 seems to not support video capture
+22時59分13秒.633: v4l2-input: Found device 'HP TrueVision HD Camera: HP Tru' at /dev/video0
+22時59分13秒.634: v4l2-input: Found input 'Camera 1' (Index 0)
+22時59分13秒.645: v4l2-controls: setting default for Power Line Frequency to 2
+22時59分13秒.646: v4l2-input: Start capture from /dev/video0
+22時59分13秒.648: v4l2-input: Input: 0
+22時59分13秒.648: v4l2-input: Selected video format not supported
+22時59分13秒.648: v4l2-input: Initialization failed
+22時59分13秒.652: v4l2-controls: setting default for Exposure, Auto to 3
+22時59分13秒.655: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+22時59分13秒.655: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22時59分13秒.655: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22時59分13秒.655: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22時59分13秒.655: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22時59分13秒.655: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22時59分13秒.656: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+22時59分13秒.656: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22時59分13秒.659: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+22時59分13秒.659: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22時59分13秒.659: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22時59分13秒.659: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22時59分13秒.659: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22時59分13秒.659: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22時59分13秒.659: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+22時59分13秒.660: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22時59分13秒.662: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22時59分13秒.663: v4l2-input: Start capture from /dev/video0
+22時59分13秒.663: v4l2-input: Input: 0
+22時59分13秒.668: v4l2-input: Resolution: 640x360
+22時59分13秒.668: v4l2-input: Pixelformat: YUYV
+22時59分13秒.668: v4l2-input: Linesize: 1280 Bytes
+22時59分13秒.668: v4l2-input: Framerate: 30.00 fps
+22時59分13秒.669: v4l2-input: /dev/video0: select timeout set to 166666us (5x frame periods)
+22時59分45秒.520: User added scene 'terminal'
+22時59分45秒.521: User switched to scene 'terminal'
+22時59分58秒.709: User added source 'console' (xcomposite_input) to scene 'terminal'
+22時59分58秒.730: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+22時59分58秒.733: xcompcap: [window-capture: 'console'] update settings:
+22時59分58秒.733: 	title: DistroWatch.com: Put the fun back into computing. Use Linux, BSD. — Mozilla Firefox
+22時59分58秒.733: 	class: Navigator
+22時59分58秒.733: 	Bit depth: 32
+22時59分58秒.733: 	Found proper GLXFBConfig (in 368): yes
+22時59分58秒.733: 
+22時59分59秒.246: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+22時59分59秒.248: xcompcap: [window-capture: 'console'] update settings:
+22時59分59秒.248: 	title: DistroWatch.com: Put the fun back into computing. Use Linux, BSD. — Mozilla Firefox
+22時59分59秒.248: 	class: Navigator
+22時59分59秒.248: 	Bit depth: 32
+22時59分59秒.248: 	Found proper GLXFBConfig (in 368): yes
+22時59分59秒.248: 
+23時00分02秒.402: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+23時00分02秒.406: xcompcap: [window-capture: 'console'] update settings:
+23時00分02秒.406: 	title: DistroWatch.com: Put the fun back into computing. Use Linux, BSD. — Mozilla Firefox
+23時00分02秒.406: 	class: Navigator
+23時00分02秒.406: 	Bit depth: 32
+23時00分02秒.406: 	Found proper GLXFBConfig (in 368): yes
+23時00分02秒.406: 
+23時00分04秒.517: xcompcap: [window-capture: 'console'] update settings:
+23時00分04秒.517: 	title: OBS 27.0.1.r52.g0698eeda9 (linux) - Profile: Untitled - Scenes: Untitled
+23時00分04秒.517: 	class: obs
+23時00分04秒.517: 	Bit depth: 24
+23時00分04秒.517: 	Found proper GLXFBConfig (in 368): yes
+23時00分04秒.517: 
+23時00分04秒.997: xcompcap: [window-capture: 'console'] update settings:
+23時00分04秒.997: 	title: OBS 27.0.1.r52.g0698eeda9 (linux) - Profile: Untitled - Scenes: Untitled
+23時00分04秒.997: 	class: obs
+23時00分04秒.997: 	Bit depth: 24
+23時00分04秒.997: 	Found proper GLXFBConfig (in 368): yes
+23時00分04秒.997: 
+23時00分05秒.666: xcompcap: [window-capture: 'console'] update settings:
+23時00分05秒.666: 	title: DistroWatch.com: Put the fun back into computing. Use Linux, BSD. — Mozilla Firefox
+23時00分05秒.666: 	class: Navigator
+23時00分05秒.666: 	Bit depth: 32
+23時00分05秒.666: 	Found proper GLXFBConfig (in 368): yes
+23時00分05秒.666: 
+23時00分06秒.196: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+23時00分06秒.198: xcompcap: [window-capture: 'console'] update settings:
+23時00分06秒.198: 	title: DistroWatch.com: Put the fun back into computing. Use Linux, BSD. — Mozilla Firefox
+23時00分06秒.198: 	class: Navigator
+23時00分06秒.198: 	Bit depth: 32
+23時00分06秒.198: 	Found proper GLXFBConfig (in 368): yes
+23時00分06秒.198: 
+23時00分06秒.713: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+23時00分08秒.513: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+23時00分08秒.516: xcompcap: [window-capture: 'console'] update settings:
+23時00分08秒.516: 	title: DistroWatch.com: Put the fun back into computing. Use Linux, BSD. — Mozilla Firefox
+23時00分08秒.516: 	class: Navigator
+23時00分08秒.516: 	Bit depth: 32
+23時00分08秒.516: 	Found proper GLXFBConfig (in 368): yes
+23時00分08秒.516: 
+23時00分08秒.996: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+23時00分08秒.997: xcompcap: [window-capture: 'console'] update settings:
+23時00分08秒.997: 	title: DistroWatch.com: Put the fun back into computing. Use Linux, BSD. — Mozilla Firefox
+23時00分08秒.997: 	class: Navigator
+23時00分08秒.997: 	Bit depth: 32
+23時00分08秒.997: 	Found proper GLXFBConfig (in 368): yes
+23時00分08秒.997: 
+23時00分10秒.463: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+23時00分10秒.468: xcompcap: [window-capture: 'console'] update settings:
+23時00分10秒.468: 	title: shima@shima:~
+23時00分10秒.468: 	class: urxvt
+23時00分10秒.468: 	Bit depth: 32
+23時00分10秒.468: 	Found proper GLXFBConfig (in 368): yes
+23時00分10秒.468: 
+23時00分10秒.929: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+23時00分10秒.931: xcompcap: [window-capture: 'console'] update settings:
+23時00分10秒.931: 	title: shima@shima:~
+23時00分10秒.931: 	class: urxvt
+23時00分10秒.931: 	Bit depth: 32
+23時00分10秒.931: 	Found proper GLXFBConfig (in 368): yes
+23時00分10秒.931: 
+23時00分12秒.030: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+23時00分12秒.032: xcompcap: [window-capture: 'console'] update settings:
+23時00分12秒.032: 	title: shima@shima:~
+23時00分12秒.032: 	class: urxvt
+23時00分12秒.032: 	Bit depth: 32
+23時00分12秒.032: 	Found proper GLXFBConfig (in 368): yes
+23時00分12秒.032: 
+23時00分39秒.885: User added scene 'based scene'
+23時00分39秒.887: User switched to scene 'based scene'
+23時00分52秒.978: User added source 'shima tech' (image_source) to scene 'based scene'
+23時04分26秒.971: User switched to scene 'Browser'
+23時04分26秒.982: xcompcap: [window-capture: 'firefox'] update settings:
+23時04分26秒.982: 	title: DistroWatch.com: Put the fun back into computing. Use Linux, BSD. — Mozilla Firefox
+23時04分26秒.982: 	class: Navigator
+23時04分26秒.982: 	Bit depth: 32
+23時04分26秒.982: 	Found proper GLXFBConfig (in 368): yes
+23時04分26秒.982: 
+23時04分27秒.428: User switched to scene 'screen'
+23時04分28秒.727: User switched to scene 'based scene'
+23時04分51秒.043: ==== Shutting down ==================================================
+23時04分51秒.051: X Error: BadWindow (invalid Window parameter), Major opcode: BadValue (integer parameter out of range for operation), Minor opcode: 0, Serial: 21515
+23時04分51秒.051: X Error: BadWindow (invalid Window parameter), Major opcode: 142, Minor opcode: BadWindow (invalid Window parameter), Serial: 21516
+23時04分51秒.052: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+23時04分51秒.062: v4l2-input: /dev/video0: Stopped capture after 10133 frames
+23時04分51秒.101: pulse-input: Stopped recording from 'alsa_output.pci-0000_05_00.6.analog-stereo.monitor'
+23時04分51秒.102: pulse-input: Got 269277 packets with 57169055 frames
+23時04分51秒.102: pulse-input: Stopped recording from 'alsa_input.pci-0000_05_00.6.analog-stereo'
+23時04分51秒.102: pulse-input: Got 111848 packets with 52524725 frames
+23時04分51秒.102: All scene data cleared
+23時04分51秒.102: ------------------------------------------------
+23時04分51秒.153: [Scripting] Total detached callbacks: 0
+23時04分51秒.157: Freeing OBS context data
+23時04分51秒.180: == Profiler Results =============================
+23時04分51秒.180: run_program_init: 1438.78 ms
+23時04分51秒.180:  ┣OBSApp::AppInit: 31.216 ms
+23時04分51秒.180:  ┃ ┗OBSApp::InitLocale: 21.203 ms
+23時04分51秒.180:  ┗OBSApp::OBSInit: 1361.74 ms
+23時04分51秒.180:    ┣obs_startup: 42.066 ms
+23時04分51秒.180:    ┗OBSBasic::OBSInit: 1149.26 ms
+23時04分51秒.180:      ┣OBSBasic::InitBasicConfig: 5.777 ms
+23時04分51秒.180:      ┣OBSBasic::ResetAudio: 0.188 ms
+23時04分51秒.180:      ┣OBSBasic::ResetVideo: 293.456 ms
+23時04分51秒.180:      ┣OBSBasic::InitOBSCallbacks: 0.006 ms
+23時04分51秒.180:      ┣OBSBasic::InitHotkeys: 0.979 ms
+23時04分51秒.180:      ┣obs_load_all_modules: 723.136 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(decklink-captions.so): 0.028 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.732 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(frontend-tools.so): 146.691 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(image-source.so): 0.011 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(linux-alsa.so): 0.004 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(linux-capture.so): 0.418 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(linux-decklink.so): 0.304 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(linux-jack.so): 0.003 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.004 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(linux-v4l2.so): 6.177 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(obs-browser.so): 0.074 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(obs-ffmpeg.so): 1.283 ms
+23時04分51秒.180:      ┃ ┃ ┗nvenc_check: 1.241 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(obs-filters.so): 0.029 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(obs-libfdk.so): 0.001 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(obs-outputs.so): 0.003 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(obs-transitions.so): 0.011 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(obs-vst.so): 0.005 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(obs-x264.so): 0.003 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(rtmp-services.so): 0.207 ms
+23時04分51秒.180:      ┃ ┣obs_init_module(text-freetype2.so): 0.066 ms
+23時04分51秒.180:      ┃ ┗obs_init_module(vlc-video.so): 3.091 ms
+23時04分51秒.180:      ┣OBSBasic::ResetOutputs: 0.225 ms
+23時04分51秒.180:      ┣OBSBasic::CreateHotkeys: 0.052 ms
+23時04分51秒.180:      ┣OBSBasic::InitService: 2.404 ms
+23時04分51秒.180:      ┣OBSBasic::InitPrimitives: 0.138 ms
+23時04分51秒.180:      ┗OBSBasic::Load: 8.744 ms
+23時04分51秒.180: obs_hotkey_thread(25 ms): min=0.086 ms, median=0.19 ms, max=22.023 ms, 99th percentile=0.802 ms, 100% below 25 ms
+23時04分51秒.180: audio_thread(Audio): min=0 ms, median=0.068 ms, max=4.213 ms, 99th percentile=0.33 ms
+23時04分51秒.181:  ┗receive_audio: min=0.004 ms, median=0.227 ms, max=4.146 ms, 99th percentile=0.607 ms, 0.030719 calls per parent call
+23時04分51秒.181:    ┣buffer_audio: min=0.001 ms, median=0.002 ms, max=0.039 ms, 99th percentile=0.009 ms
+23時04分51秒.181:    ┗do_encode: min=0.02 ms, median=0.221 ms, max=4.137 ms, 99th percentile=0.594 ms
+23時04分51秒.181:      ┗encode(test_aac): min=0.019 ms, median=0.216 ms, max=2.382 ms, 99th percentile=0.559 ms
+23時04分51秒.181: obs_graphics_thread(33.3333 ms): min=0.141 ms, median=0.552 ms, max=35.185 ms, 99th percentile=3.281 ms, 99.6656% below 33.333 ms
+23時04分51秒.181:  ┣tick_sources: min=0 ms, median=0.008 ms, max=0.059 ms, 99th percentile=0.017 ms
+23時04分51秒.181:  ┣output_frame: min=0.102 ms, median=0.146 ms, max=13.877 ms, 99th percentile=0.506 ms
+23時04分51秒.181:  ┃ ┗gs_context(video->graphics): min=0.102 ms, median=0.146 ms, max=13.876 ms, 99th percentile=0.506 ms
+23時04分51秒.181:  ┃   ┣render_video: min=0.024 ms, median=0.036 ms, max=2.994 ms, 99th percentile=0.448 ms
+23時04分51秒.181:  ┃   ┃ ┗render_main_texture: min=0.02 ms, median=0.031 ms, max=2.987 ms, 99th percentile=0.443 ms
+23時04分51秒.181:  ┃   ┗gs_flush: min=0.042 ms, median=0.098 ms, max=10.861 ms, 99th percentile=0.339 ms
+23時04分51秒.181:  ┗render_displays: min=0.003 ms, median=0.343 ms, max=34.977 ms, 99th percentile=1.167 ms
+23時04分51秒.181: obs_graphics_thread(16.6667 ms): min=0.517 ms, median=5.51 ms, max=24.459 ms, 99th percentile=11.781 ms, 99.3958% below 16.667 ms
+23時04分51秒.181:  ┣tick_sources: min=0.007 ms, median=0.009 ms, max=2.348 ms, 99th percentile=0.052 ms
+23時04分51秒.181:  ┣output_frame: min=0.206 ms, median=4.89 ms, max=24 ms, 99th percentile=8.947 ms
+23時04分51秒.181:  ┃ ┣gs_context(video->graphics): min=0.206 ms, median=4.85 ms, max=24 ms, 99th percentile=8.945 ms
+23時04分51秒.181:  ┃ ┃ ┣render_video: min=0.083 ms, median=4.812 ms, max=23.975 ms, 99th percentile=8.906 ms
+23時04分51秒.181:  ┃ ┃ ┃ ┣render_main_texture: min=0.045 ms, median=0.09 ms, max=0.456 ms, 99th percentile=0.168 ms
+23時04分51秒.181:  ┃ ┃ ┃ ┣render_convert_texture: min=0.037 ms, median=0.051 ms, max=6.389 ms, 99th percentile=0.417 ms, 0.906344 calls per parent call
+23時04分51秒.181:  ┃ ┃ ┃ ┗stage_output_texture: min=4.154 ms, median=4.671 ms, max=17.486 ms, 99th percentile=11.057 ms, 0.906344 calls per parent call
+23時04分51秒.181:  ┃ ┃ ┣gs_flush: min=0.002 ms, median=0.003 ms, max=0.768 ms, 99th percentile=0.154 ms
+23時04分51秒.181:  ┃ ┃ ┗download_frame: min=0.001 ms, median=0.009 ms, max=0.048 ms, 99th percentile=0.023 ms, 0.906344 calls per parent call
+23時04分51秒.181:  ┃ ┗output_video_data: min=0 ms, median=0.001 ms, max=4.773 ms, 99th percentile=1.495 ms, 0.903323 calls per parent call
+23時04分51秒.181:  ┗render_displays: min=0.252 ms, median=0.491 ms, max=3.776 ms, 99th percentile=3.406 ms
+23時04分51秒.181: video_thread(video): min=0 ms, median=43.106 ms, max=295.592 ms, 99th percentile=295.592 ms
+23時04分51秒.181:  ┗receive_video: min=1.65 ms, median=3.839 ms, max=188.588 ms, 99th percentile=182.601 ms, 4.92593 calls per parent call
+23時04分51秒.181:    ┗do_encode: min=1.645 ms, median=3.837 ms, max=188.586 ms, 99th percentile=182.599 ms
+23時04分51秒.181:      ┗encode(test_x264): min=1.643 ms, median=3.836 ms, max=188.584 ms, 99th percentile=182.308 ms
+23時04分51秒.181: obs_graphics_thread(33.3333 ms): min=0.516 ms, median=6.563 ms, max=93.301 ms, 99th percentile=22.444 ms, 99.4118% below 33.333 ms
+23時04分51秒.181:  ┣tick_sources: min=0.007 ms, median=0.009 ms, max=0.019 ms, 99th percentile=0.016 ms
+23時04分51秒.181:  ┣output_frame: min=0.168 ms, median=5.63 ms, max=61.331 ms, 99th percentile=21.379 ms
+23時04分51秒.181:  ┃ ┣gs_context(video->graphics): min=0.168 ms, median=5.13 ms, max=61.329 ms, 99th percentile=20.558 ms
+23時04分51秒.181:  ┃ ┃ ┣render_video: min=0.078 ms, median=5.09 ms, max=61.282 ms, 99th percentile=20.482 ms
+23時04分51秒.181:  ┃ ┃ ┃ ┣render_main_texture: min=0.071 ms, median=0.087 ms, max=0.152 ms, 99th percentile=0.13 ms
+23時04分51秒.181:  ┃ ┃ ┃ ┣render_convert_texture: min=0.04 ms, median=0.053 ms, max=0.237 ms, 99th percentile=0.094 ms, 0.876471 calls per parent call
+23時04分51秒.181:  ┃ ┃ ┃ ┗stage_output_texture: min=3.626 ms, median=5.03 ms, max=61.097 ms, 99th percentile=20.27 ms, 0.876471 calls per parent call
+23時04分51秒.181:  ┃ ┃ ┣gs_flush: min=0.002 ms, median=0.003 ms, max=4.291 ms, 99th percentile=0.585 ms
+23時04分51秒.181:  ┃ ┃ ┗download_frame: min=0 ms, median=0.011 ms, max=0.034 ms, 99th percentile=0.026 ms, 0.876471 calls per parent call
+23時04分51秒.181:  ┃ ┗output_video_data: min=0 ms, median=0.493 ms, max=2.842 ms, 99th percentile=2.07 ms, 0.870588 calls per parent call
+23時04分51秒.181:  ┗render_displays: min=0.246 ms, median=0.656 ms, max=31.893 ms, 99th percentile=6.521 ms
+23時04分51秒.181: video_thread(video): min=0 ms, median=34.364 ms, max=328.611 ms, 99th percentile=328.611 ms
+23時04分51秒.181:  ┗receive_video: min=1.867 ms, median=27.373 ms, max=131.512 ms, 99th percentile=119.279 ms, 1.67901 calls per parent call
+23時04分51秒.181:    ┗do_encode: min=1.866 ms, median=27.372 ms, max=131.511 ms, 99th percentile=119.276 ms
+23時04分51秒.181:      ┗encode(test_x264): min=1.859 ms, median=27.248 ms, max=131.426 ms, 99th percentile=119.167 ms
+23時04分51秒.181: obs_graphics_thread(16.6667 ms): min=0.561 ms, median=9.1 ms, max=39.652 ms, 99th percentile=22.271 ms, 94.7205% below 16.667 ms
+23時04分51秒.181:  ┣tick_sources: min=0.008 ms, median=0.012 ms, max=0.078 ms, 99th percentile=0.024 ms
+23時04分51秒.181:  ┣output_frame: min=0.219 ms, median=7.566 ms, max=39.215 ms, 99th percentile=17.759 ms
+23時04分51秒.181:  ┃ ┣gs_context(video->graphics): min=0.219 ms, median=7.457 ms, max=39.215 ms, 99th percentile=17.543 ms
+23時04分51秒.181:  ┃ ┃ ┣render_video: min=0.105 ms, median=7.416 ms, max=39.193 ms, 99th percentile=17.487 ms
+23時04分51秒.181:  ┃ ┃ ┃ ┣render_main_texture: min=0.058 ms, median=0.111 ms, max=2.919 ms, 99th percentile=0.373 ms
+23時04分51秒.181:  ┃ ┃ ┃ ┣render_output_texture: min=0.028 ms, median=0.051 ms, max=10.976 ms, 99th percentile=0.242 ms, 0.928571 calls per parent call
+23時04分51秒.181:  ┃ ┃ ┃ ┣render_convert_texture: min=0.029 ms, median=0.051 ms, max=0.19 ms, 99th percentile=0.174 ms, 0.928571 calls per parent call
+23時04分51秒.181:  ┃ ┃ ┃ ┗stage_output_texture: min=2.899 ms, median=7.404 ms, max=28.091 ms, 99th percentile=17.567 ms, 0.928571 calls per parent call
+23時04分51秒.181:  ┃ ┃ ┣gs_flush: min=0.002 ms, median=0.004 ms, max=1.399 ms, 99th percentile=0.375 ms
+23時04分51秒.181:  ┃ ┃ ┗download_frame: min=0 ms, median=0.013 ms, max=0.096 ms, 99th percentile=0.072 ms, 0.928571 calls per parent call
+23時04分51秒.181:  ┃ ┗output_video_data: min=0.001 ms, median=0.001 ms, max=1.186 ms, 99th percentile=0.589 ms, 0.925466 calls per parent call
+23時04分51秒.181:  ┗render_displays: min=0.295 ms, median=0.903 ms, max=9.694 ms, 99th percentile=7.261 ms
+23時04分51秒.181: video_thread(video): min=0 ms, median=18.286 ms, max=274.268 ms, 99th percentile=274.268 ms
+23時04分51秒.181:  ┗receive_video: min=1.004 ms, median=7.295 ms, max=128.831 ms, 99th percentile=98.197 ms, 2.76 calls per parent call
+23時04分51秒.181:    ┗do_encode: min=1.003 ms, median=7.293 ms, max=128.83 ms, 99th percentile=98.194 ms
+23時04分51秒.181:      ┗encode(test_x264): min=0.999 ms, median=7.284 ms, max=128.662 ms, 99th percentile=98.105 ms
+23時04分51秒.181: obs_graphics_thread(33.3333 ms): min=0.701 ms, median=11.806 ms, max=31.314 ms, 99th percentile=30.603 ms, 100% below 33.333 ms
+23時04分51秒.181:  ┣tick_sources: min=0.009 ms, median=0.012 ms, max=0.034 ms, 99th percentile=0.029 ms
+23時04分51秒.181:  ┣output_frame: min=0.286 ms, median=10.375 ms, max=25.44 ms, 99th percentile=20.652 ms
+23時04分51秒.181:  ┃ ┣gs_context(video->graphics): min=0.286 ms, median=10.059 ms, max=25.183 ms, 99th percentile=20.368 ms
+23時04分51秒.181:  ┃ ┃ ┣render_video: min=0.11 ms, median=10.012 ms, max=25.134 ms, 99th percentile=20.314 ms
+23時04分51秒.181:  ┃ ┃ ┃ ┣render_main_texture: min=0.084 ms, median=0.108 ms, max=0.399 ms, 99th percentile=0.283 ms
+23時04分51秒.181:  ┃ ┃ ┃ ┣render_output_texture: min=0.04 ms, median=0.052 ms, max=0.203 ms, 99th percentile=0.142 ms, 0.925926 calls per parent call
+23時04分51秒.181:  ┃ ┃ ┃ ┣render_convert_texture: min=0.039 ms, median=0.054 ms, max=0.275 ms, 99th percentile=0.214 ms, 0.925926 calls per parent call
+23時04分51秒.181:  ┃ ┃ ┃ ┗stage_output_texture: min=7.085 ms, median=9.907 ms, max=24.896 ms, 99th percentile=20.087 ms, 0.925926 calls per parent call
+23時04分51秒.181:  ┃ ┃ ┣gs_flush: min=0.002 ms, median=0.004 ms, max=0.21 ms, 99th percentile=0.203 ms
+23時04分51秒.181:  ┃ ┃ ┗download_frame: min=0 ms, median=0.016 ms, max=0.033 ms, 99th percentile=0.033 ms, 0.925926 calls per parent call
+23時04分51秒.181:  ┃ ┗output_video_data: min=0.001 ms, median=0.281 ms, max=0.871 ms, 99th percentile=0.673 ms, 0.919753 calls per parent call
+23時04分51秒.181:  ┗render_displays: min=0.342 ms, median=0.974 ms, max=17.32 ms, 99th percentile=14.896 ms
+23時04分51秒.181: video_thread(video): min=0 ms, median=32.9 ms, max=273.717 ms, 99th percentile=271.397 ms
+23時04分51秒.181:  ┗receive_video: min=1.269 ms, median=30.325 ms, max=199.055 ms, 99th percentile=164.469 ms, 1.30189 calls per parent call
+23時04分51秒.181:    ┗do_encode: min=1.268 ms, median=30.323 ms, max=199.054 ms, 99th percentile=164.467 ms
+23時04分51秒.181:      ┗encode(test_x264): min=1.26 ms, median=30.293 ms, max=199.051 ms, 99th percentile=164.411 ms
+23時04分51秒.181: obs_graphics_thread(16.6667 ms): min=0.587 ms, median=3.963 ms, max=32.527 ms, 99th percentile=13.09 ms, 99.67% below 16.667 ms
+23時04分51秒.181:  ┣tick_sources: min=0.006 ms, median=0.009 ms, max=0.022 ms, 99th percentile=0.017 ms
+23時04分51秒.181:  ┣output_frame: min=0.249 ms, median=3.17 ms, max=31.582 ms, 99th percentile=10.672 ms
+23時04分51秒.181:  ┃ ┣gs_context(video->graphics): min=0.249 ms, median=3.043 ms, max=31.581 ms, 99th percentile=10.562 ms
+23時04分51秒.182:  ┃ ┃ ┣render_video: min=0.079 ms, median=3.01 ms, max=31.531 ms, 99th percentile=10.518 ms
+23時04分51秒.182:  ┃ ┃ ┃ ┣render_main_texture: min=0.066 ms, median=0.088 ms, max=0.235 ms, 99th percentile=0.183 ms
+23時04分51秒.182:  ┃ ┃ ┃ ┣render_output_texture: min=0.027 ms, median=0.038 ms, max=6.319 ms, 99th percentile=0.21 ms
+23時04分51秒.182:  ┃ ┃ ┃ ┣render_convert_texture: min=0.026 ms, median=0.04 ms, max=0.257 ms, 99th percentile=0.119 ms
+23時04分51秒.182:  ┃ ┃ ┃ ┗stage_output_texture: min=2.422 ms, median=2.833 ms, max=24.888 ms, 99th percentile=10.603 ms
+23時04分51秒.182:  ┃ ┃ ┣gs_flush: min=0.001 ms, median=0.003 ms, max=0.3 ms, 99th percentile=0.024 ms
+23時04分51秒.182:  ┃ ┃ ┗download_frame: min=0 ms, median=0.007 ms, max=0.022 ms, 99th percentile=0.021 ms
+23時04分51秒.182:  ┃ ┗output_video_data: min=0.073 ms, median=0.104 ms, max=0.241 ms, 99th percentile=0.224 ms
+23時04分51秒.182:  ┗render_displays: min=0.27 ms, median=0.602 ms, max=8.941 ms, 99th percentile=7.865 ms
+23時04分51秒.182: video_thread(video): min=0.417 ms, median=0.733 ms, max=24.074 ms, 99th percentile=21.423 ms
+23時04分51秒.182:  ┗receive_video: min=0.416 ms, median=0.731 ms, max=24.072 ms, 99th percentile=21.422 ms
+23時04分51秒.182:    ┗do_encode: min=0.415 ms, median=0.73 ms, max=24.07 ms, 99th percentile=21.421 ms
+23時04分51秒.182:      ┗encode(test_x264): min=0.403 ms, median=0.706 ms, max=24.068 ms, 99th percentile=21.361 ms
+23時04分51秒.182: obs_graphics_thread(33.3333 ms): min=0.523 ms, median=3.548 ms, max=13.214 ms, 99th percentile=8.94 ms, 100% below 33.333 ms
+23時04分51秒.182:  ┣tick_sources: min=0.006 ms, median=0.009 ms, max=0.019 ms, 99th percentile=0.018 ms
+23時04分51秒.182:  ┣output_frame: min=0.205 ms, median=3.009 ms, max=10.729 ms, 99th percentile=8.094 ms
+23時04分51秒.182:  ┃ ┣gs_context(video->graphics): min=0.205 ms, median=2.908 ms, max=10.546 ms, 99th percentile=7.909 ms
+23時04分51秒.182:  ┃ ┃ ┣render_video: min=0.082 ms, median=2.876 ms, max=10.497 ms, 99th percentile=7.851 ms
+23時04分51秒.182:  ┃ ┃ ┃ ┣render_main_texture: min=0.061 ms, median=0.083 ms, max=0.186 ms, 99th percentile=0.143 ms
+23時04分51秒.182:  ┃ ┃ ┃ ┣render_output_texture: min=0.025 ms, median=0.035 ms, max=0.08 ms, 99th percentile=0.062 ms
+23時04分51秒.182:  ┃ ┃ ┃ ┣render_convert_texture: min=0.028 ms, median=0.037 ms, max=0.148 ms, 99th percentile=0.094 ms
+23時04分51秒.182:  ┃ ┃ ┃ ┗stage_output_texture: min=2.34 ms, median=2.72 ms, max=10.31 ms, 99th percentile=7.644 ms
+23時04分51秒.182:  ┃ ┃ ┣gs_flush: min=0.001 ms, median=0.002 ms, max=0.12 ms, 99th percentile=0.116 ms
+23時04分51秒.182:  ┃ ┃ ┗download_frame: min=0 ms, median=0.006 ms, max=0.021 ms, 99th percentile=0.021 ms
+23時04分51秒.182:  ┃ ┗output_video_data: min=0.07 ms, median=0.09 ms, max=0.232 ms, 99th percentile=0.187 ms
+23時04分51秒.182:  ┗render_displays: min=0.247 ms, median=0.458 ms, max=4.123 ms, 99th percentile=2.391 ms
+23時04分51秒.182: video_thread(video): min=0.424 ms, median=0.62 ms, max=1.68 ms, 99th percentile=1.648 ms
+23時04分51秒.182:  ┗receive_video: min=0.422 ms, median=0.619 ms, max=1.678 ms, 99th percentile=1.645 ms
+23時04分51秒.182:    ┗do_encode: min=0.421 ms, median=0.618 ms, max=1.677 ms, 99th percentile=1.642 ms
+23時04分51秒.182:      ┗encode(test_x264): min=0.407 ms, median=0.592 ms, max=1.662 ms, 99th percentile=1.638 ms
+23時04分51秒.182: obs_graphics_thread(16.6667 ms): min=0.534 ms, median=3.799 ms, max=18.374 ms, 99th percentile=12.787 ms, 99.67% below 16.667 ms
+23時04分51秒.182:  ┣tick_sources: min=0.007 ms, median=0.009 ms, max=0.057 ms, 99th percentile=0.024 ms
+23時04分51秒.182:  ┣output_frame: min=0.131 ms, median=3.126 ms, max=11.174 ms, 99th percentile=5.866 ms
+23時04分51秒.182:  ┃ ┣gs_context(video->graphics): min=0.131 ms, median=3.078 ms, max=6.116 ms, 99th percentile=5.714 ms
+23時04分51秒.182:  ┃ ┃ ┣render_video: min=0.035 ms, median=3.049 ms, max=6.045 ms, 99th percentile=5.658 ms
+23時04分51秒.182:  ┃ ┃ ┃ ┣render_main_texture: min=0.03 ms, median=0.088 ms, max=0.183 ms, 99th percentile=0.17 ms
+23時04分51秒.182:  ┃ ┃ ┃ ┣render_output_texture: min=0.027 ms, median=0.037 ms, max=0.501 ms, 99th percentile=0.077 ms
+23時04分51秒.182:  ┃ ┃ ┃ ┣render_convert_texture: min=0.027 ms, median=0.039 ms, max=0.098 ms, 99th percentile=0.072 ms
+23時04分51秒.182:  ┃ ┃ ┃ ┗stage_output_texture: min=2.366 ms, median=2.879 ms, max=5.839 ms, 99th percentile=5.473 ms
+23時04分51秒.182:  ┃ ┃ ┣gs_flush: min=0.001 ms, median=0.003 ms, max=0.137 ms, 99th percentile=0.009 ms
+23時04分51秒.182:  ┃ ┃ ┗download_frame: min=0 ms, median=0.007 ms, max=0.028 ms, 99th percentile=0.027 ms
+23時04分51秒.182:  ┃ ┗output_video_data: min=0.04 ms, median=0.056 ms, max=6.678 ms, 99th percentile=0.751 ms
+23時04分51秒.182:  ┗render_displays: min=0.298 ms, median=0.555 ms, max=12.951 ms, 99th percentile=9.548 ms
+23時04分51秒.182: video_thread(video): min=0.236 ms, median=0.366 ms, max=0.696 ms, 99th percentile=0.644 ms
+23時04分51秒.182:  ┗receive_video: min=0.235 ms, median=0.364 ms, max=0.692 ms, 99th percentile=0.637 ms
+23時04分51秒.182:    ┗do_encode: min=0.234 ms, median=0.362 ms, max=0.689 ms, 99th percentile=0.634 ms
+23時04分51秒.182:      ┗encode(test_x264): min=0.233 ms, median=0.353 ms, max=0.673 ms, 99th percentile=0.617 ms
+23時04分51秒.182: obs_graphics_thread(33.3333 ms): min=0.379 ms, median=0.59 ms, max=8.9 ms, 99th percentile=1.194 ms, 100% below 33.333 ms
+23時04分51秒.182:  ┣tick_sources: min=0.005 ms, median=0.008 ms, max=0.245 ms, 99th percentile=0.018 ms
+23時04分51秒.182:  ┣output_frame: min=0.097 ms, median=0.159 ms, max=1.085 ms, 99th percentile=0.345 ms
+23時04分51秒.182:  ┃ ┗gs_context(video->graphics): min=0.097 ms, median=0.159 ms, max=1.084 ms, 99th percentile=0.345 ms
+23時04分51秒.182:  ┃   ┣render_video: min=0.028 ms, median=0.037 ms, max=0.863 ms, 99th percentile=0.071 ms
+23時04分51秒.182:  ┃   ┃ ┗render_main_texture: min=0.024 ms, median=0.033 ms, max=0.197 ms, 99th percentile=0.062 ms
+23時04分51秒.182:  ┃   ┗gs_flush: min=0.056 ms, median=0.108 ms, max=0.636 ms, 99th percentile=0.272 ms
+23時04分51秒.182:  ┗render_displays: min=0.232 ms, median=0.363 ms, max=8.676 ms, 99th percentile=0.885 ms
+23時04分51秒.182: obs_graphics_thread(16.6667 ms): min=0.188 ms, median=0.697 ms, max=210.782 ms, 99th percentile=7.576 ms, 99.9679% below 16.667 ms
+23時04分51秒.182:  ┣tick_sources: min=0.004 ms, median=0.015 ms, max=208.246 ms, 99th percentile=4.6 ms
+23時04分51秒.182:  ┣output_frame: min=0.082 ms, median=0.191 ms, max=17.472 ms, 99th percentile=0.441 ms
+23時04分51秒.182:  ┃ ┗gs_context(video->graphics): min=0.082 ms, median=0.191 ms, max=17.471 ms, 99th percentile=0.441 ms
+23時04分51秒.182:  ┃   ┣render_video: min=0.025 ms, median=0.083 ms, max=8.406 ms, 99th percentile=0.249 ms
+23時04分51秒.182:  ┃   ┃ ┗render_main_texture: min=0.021 ms, median=0.08 ms, max=8.402 ms, 99th percentile=0.244 ms
+23時04分51秒.182:  ┃   ┗gs_flush: min=0.035 ms, median=0.106 ms, max=10.405 ms, 99th percentile=0.266 ms
+23時04分51秒.182:  ┗render_displays: min=0.007 ms, median=0.39 ms, max=18.49 ms, 99th percentile=3.09 ms
+23時04分51秒.182: OBSBasic::ResetVideo: 52.954 ms
+23時04分51秒.182: OBSBasic::ResetOutputs: 0.123 ms
+23時04分51秒.182: =================================================
+23時04分51秒.182: == Profiler Time Between Calls ==================
+23時04分51秒.182: obs_hotkey_thread(25 ms): min=1.888 ms, median=25.26 ms, max=47.107 ms, 93.6059% within ±2% of 25 ms (0.00424998% lower, 6.38985% higher)
+23時04分51秒.182: obs_graphics_thread(33.3333 ms): min=31.438 ms, median=33.333 ms, max=35.197 ms, 99.3289% within ±2% of 33.333 ms (0.33557% lower, 0.33557% higher)
+23時04分51秒.182: obs_graphics_thread(16.6667 ms): min=11.864 ms, median=16.667 ms, max=24.469 ms, 94.2424% within ±2% of 16.667 ms (3.0303% lower, 2.72727% higher)
+23時04分51秒.182: obs_graphics_thread(33.3333 ms): min=17.576 ms, median=33.333 ms, max=93.315 ms, 86.3905% within ±2% of 33.333 ms (7.10059% lower, 6.50888% higher)
+23時04分51秒.182: obs_graphics_thread(16.6667 ms): min=9.221 ms, median=16.666 ms, max=39.668 ms, 69.1589% within ±2% of 16.667 ms (15.8879% lower, 14.9533% higher)
+23時04分51秒.182: obs_graphics_thread(33.3333 ms): min=18.516 ms, median=33.334 ms, max=52.702 ms, 77.6398% within ±2% of 33.333 ms (11.1801% lower, 11.1801% higher)
+23時04分51秒.182: obs_graphics_thread(16.6667 ms): min=10.804 ms, median=16.667 ms, max=32.545 ms, 95.6954% within ±2% of 16.667 ms (2.31788% lower, 1.98675% higher)
+23時04分51秒.182: obs_graphics_thread(33.3333 ms): min=32.798 ms, median=33.333 ms, max=33.899 ms, 100% within ±2% of 33.333 ms (0% lower, 0% higher)
+23時04分51秒.182: obs_graphics_thread(16.6667 ms): min=13.348 ms, median=16.667 ms, max=19.979 ms, 98.6755% within ±2% of 16.667 ms (0.662252% lower, 0.662252% higher)
+23時04分51秒.182: obs_graphics_thread(33.3333 ms): min=24.554 ms, median=33.333 ms, max=42.107 ms, 99.9743% within ±2% of 33.333 ms (0.0128312% lower, 0.0128312% higher)
+23時04分51秒.182: obs_graphics_thread(16.6667 ms): min=5.879 ms, median=16.667 ms, max=210.787 ms, 99.7889% within ±2% of 16.667 ms (0.106909% lower, 0.104236% higher)
+23時04分51秒.182: =================================================
+23時04分51秒.279: Number of memory leaks: 0

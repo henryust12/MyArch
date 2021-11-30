@@ -1,0 +1,225 @@
+12時30分45秒.201: CPU Name: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx
+12時30分45秒.201: CPU Speed: 1461.860MHz
+12時30分45秒.202: Physical Cores: 4, Logical Cores: 8
+12時30分45秒.202: Physical Memory: 15724MB Total, 7799MB Free
+12時30分45秒.202: Kernel Version: Linux 5.10.54-1-lts
+12時30分45秒.202: Distribution: ArcoLinux Unknown
+12時30分45秒.202: Session Type: x11
+12時30分45秒.202: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.13
+12時30分45秒.205: Portable mode: false
+12時30分45秒.312: OBS 27.0.1.r52.g0698eeda9 (linux)
+12時30分45秒.312: ---------------------------------
+12時30分45秒.316: ---------------------------------
+12時30分45秒.316: audio settings reset:
+12時30分45秒.316: 	samples per sec: 48000
+12時30分45秒.316: 	speakers:        2
+12時30分45秒.331: ---------------------------------
+12時30分45秒.331: Initializing OpenGL...
+12時30分45秒.474: Loading up OpenGL on adapter AMD AMD Radeon(TM) Vega 8 Graphics (RAVEN, DRM 3.40.0, 5.10.54-1-lts, LLVM 12.0.1)
+12時30分45秒.474: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.1.5, shading language 4.60
+12時30分45秒.605: ---------------------------------
+12時30分45秒.605: video settings reset:
+12時30分45秒.605: 	base resolution:   1920x1080
+12時30分45秒.605: 	output resolution: 852x480
+12時30分45秒.605: 	downscale filter:  Bicubic
+12時30分45秒.605: 	fps:               60/1
+12時30分45秒.605: 	format:            NV12
+12時30分45秒.605: 	YUV mode:          709/Partial
+12時30分45秒.606: NV12 texture support not available
+12時30分45秒.614: Audio monitoring device:
+12時30分45秒.614: 	name: Default
+12時30分45秒.614: 	id: default
+12時30分45秒.617: ---------------------------------
+12時30分45秒.623: Failed to load 'en-US' text for module: 'decklink-captions.so'
+12時30分45秒.634: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+12時30分45秒.893: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+12時30分45秒.893: No blackmagic support
+12時30分45秒.913: v4l2loopback not installed, virtual camera disabled
+12時30分45秒.919: [obs-browser]: Version 2.14.3
+12時30分45秒.919: [obs-browser]: CEF Version 88.2.8+ge484012+chromium-88.0.4324.150
+12時30分45秒.942: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+12時30分45秒.942: 
+12時30分45秒.942: FFMPEG VAAPI supported
+12時30分45秒.976: VLC found, VLC video source enabled
+12時30分45秒.976: ---------------------------------
+12時30分45秒.976:   Loaded Modules:
+12時30分45秒.976:     vlc-video.so
+12時30分45秒.976:     text-freetype2.so
+12時30分45秒.976:     rtmp-services.so
+12時30分45秒.976:     obs-x264.so
+12時30分45秒.976:     obs-vst.so
+12時30分45秒.976:     obs-transitions.so
+12時30分45秒.976:     obs-outputs.so
+12時30分45秒.976:     obs-libfdk.so
+12時30分45秒.976:     obs-filters.so
+12時30分45秒.976:     obs-ffmpeg.so
+12時30分45秒.976:     obs-browser.so
+12時30分45秒.976:     linux-v4l2.so
+12時30分45秒.976:     linux-pulseaudio.so
+12時30分45秒.976:     linux-jack.so
+12時30分45秒.976:     linux-decklink.so
+12時30分45秒.976:     linux-capture.so
+12時30分45秒.976:     linux-alsa.so
+12時30分45秒.976:     image-source.so
+12時30分45秒.976:     frontend-tools.so
+12時30分45秒.976:     decklink-ouput-ui.so
+12時30分45秒.976:     decklink-captions.so
+12時30分45秒.976: ---------------------------------
+12時30分45秒.977: ==== Startup complete ===============================================
+12時30分45秒.986: All scene data cleared
+12時30分45秒.986: ------------------------------------------------
+12時30分46秒.005: pulse-input: Server name: 'pulseaudio 15.0'
+12時30分46秒.005: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+12時30分46秒.005: pulse-input: Started recording from 'bluez_sink.38_18_4C_23_DB_4D.a2dp_sink.monitor'
+12時30分46秒.005: [Loaded global audio device]: 'Desktop Audio'
+12時30分46秒.006: pulse-input: Server name: 'pulseaudio 15.0'
+12時30分46秒.006: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+12時30分46秒.006: pulse-input: Started recording from 'alsa_input.pci-0000_05_00.6.analog-stereo'
+12時30分46秒.006: [Loaded global audio device]: 'Mic/Aux'
+12時30分46秒.008: xshm-input: Geometry 1920x1080 @ 0,0
+12時30分46秒.082: xcompcap: [window-capture: 'firefox'] update settings:
+12時30分46秒.082: 	title: Monkeytype — Mozilla Firefox
+12時30分46秒.082: 	class: Navigator
+12時30分46秒.082: 	Bit depth: 32
+12時30分46秒.082: 	Found proper GLXFBConfig (in 368): yes
+12時30分46秒.082: 
+12時30分46秒.083: v4l2-input: Start capture from /dev/video0
+12時30分46秒.184: v4l2-input: Input: 0
+12時30分46秒.189: v4l2-input: Resolution: 640x480
+12時30分46秒.189: v4l2-input: Pixelformat: YUYV
+12時30分46秒.189: v4l2-input: Linesize: 1280 Bytes
+12時30分46秒.189: v4l2-input: Framerate: 30.00 fps
+12時30分46秒.190: v4l2-input: /dev/video0: select timeout set to 166666us (5x frame periods)
+12時30分46秒.415: Switched to scene 'based scene'
+12時30分46秒.415: ------------------------------------------------
+12時30分46秒.415: Loaded scenes:
+12時30分46秒.415: - scene 'screen':
+12時30分46秒.415:     - source: 'Screen Capture (XSHM)' (xshm_input)
+12時30分46秒.415: - scene 'virtual box':
+12時30分46秒.415:     - source: 'virt' (xcomposite_input)
+12時30分46秒.415: - scene 'Browser':
+12時30分46秒.416:     - source: 'firefox' (xcomposite_input)
+12時30分46秒.416: - scene 'camera':
+12時30分46秒.416:     - source: 'webcam' (v4l2_input)
+12時30分46秒.416: - scene 'terminal':
+12時30分46秒.416:     - source: 'console' (xcomposite_input)
+12時30分46秒.416: - scene 'based scene':
+12時30分46秒.417:     - source: 'shima tech' (image_source)
+12時30分46秒.417: ------------------------------------------------
+12時30分46秒.940: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+12時30分46秒.940: 
+12時30分53秒.307: User switched to scene 'terminal'
+12時30分54秒.566: User switched to scene 'camera'
+12時30分54秒.579: A sprite cannot be drawn without a width/height
+12時31分07秒.844: ---------------------------------
+12時31分07秒.845: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+12時31分07秒.845: [x264 encoder: 'simple_h264_recording'] profile: high
+12時31分07秒.872: [x264 encoder: 'simple_h264_recording'] settings:
+12時31分07秒.872: 	rate_control: CRF
+12時31分07秒.872: 	bitrate:      0
+12時31分07秒.872: 	buffer size:  0
+12時31分07秒.872: 	crf:          18
+12時31分07秒.872: 	fps_num:      60
+12時31分07秒.872: 	fps_den:      1
+12時31分07秒.872: 	width:        852
+12時31分07秒.872: 	height:       480
+12時31分07秒.872: 	keyint:       250
+12時31分07秒.872: 
+12時31分07秒.904: libfdk_aac encoder created
+12時31分07秒.904: libfdk_aac bitrate: 192, channels: 2
+12時31分07秒.916: ==== Recording Start ===============================================
+12時31分07秒.916: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-08-02 12-31-07.mkv'...
+12時32分37秒.332: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-08-02 12-31-07.mkv' stopped
+12時32分37秒.332: Output 'simple_file_output': stopping
+12時32分37秒.332: Output 'simple_file_output': Total frames output: 5313
+12時32分37秒.333: Output 'simple_file_output': Total drawn frames: 5188 (5365 attempted)
+12時32分37秒.333: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 177 (3.3%)
+12時32分37秒.334: ==== Recording Stop ================================================
+12時32分37秒.357: Video stopped, number of skipped frames due to encoding lag: 3088/5357 (57.6%)
+12時32分37秒.525: libfdk_aac encoder destroyed
+12時32分40秒.350: Switched to Preview/Program mode
+12時32分40秒.350: ------------------------------------------------
+12時32分40秒.966: Switched to scene 'camera'
+12時32分40秒.981: Switched to regular Preview mode
+12時32分40秒.981: ------------------------------------------------
+12時32分52秒.344: ==== Shutting down ==================================================
+12時32分52秒.365: X Error: BadWindow (invalid Window parameter), Major opcode: BadValue (integer parameter out of range for operation), Minor opcode: 0, Serial: 257
+12時32分52秒.365: X Error: BadWindow (invalid Window parameter), Major opcode: 142, Minor opcode: BadWindow (invalid Window parameter), Serial: 258
+12時32分52秒.374: v4l2-input: /dev/video0: Stopped capture after 3789 frames
+12時32分52秒.410: pulse-input: Stopped recording from 'bluez_sink.38_18_4C_23_DB_4D.a2dp_sink.monitor'
+12時32分52秒.410: pulse-input: Got 12665 packets with 5574016 frames
+12時32分52秒.411: pulse-input: Stopped recording from 'alsa_input.pci-0000_05_00.6.analog-stereo'
+12時32分52秒.411: pulse-input: Got 12451 packets with 6048039 frames
+12時32分52秒.418: All scene data cleared
+12時32分52秒.418: ------------------------------------------------
+12時32分52秒.528: [Scripting] Total detached callbacks: 0
+12時32分52秒.539: Freeing OBS context data
+12時32分52秒.638: == Profiler Results =============================
+12時32分52秒.639: run_program_init: 1449.77 ms
+12時32分52秒.639:  ┣OBSApp::AppInit: 16.769 ms
+12時32分52秒.639:  ┃ ┗OBSApp::InitLocale: 8.782 ms
+12時32分52秒.639:  ┗OBSApp::OBSInit: 1383.48 ms
+12時32分52秒.639:    ┣obs_startup: 39.704 ms
+12時32分52秒.639:    ┗OBSBasic::OBSInit: 1235.9 ms
+12時32分52秒.639:      ┣OBSBasic::InitBasicConfig: 2.949 ms
+12時32分52秒.639:      ┣OBSBasic::ResetAudio: 0.135 ms
+12時32分52秒.639:      ┣OBSBasic::ResetVideo: 298.289 ms
+12時32分52秒.639:      ┣OBSBasic::InitOBSCallbacks: 0.006 ms
+12時32分52秒.639:      ┣OBSBasic::InitHotkeys: 2.6 ms
+12時32分52秒.639:      ┣obs_load_all_modules: 359.399 ms
+12時32分52秒.639:      ┃ ┣obs_init_module(decklink-captions.so): 0.027 ms
+12時32分52秒.639:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.686 ms
+12時32分52秒.639:      ┃ ┣obs_init_module(frontend-tools.so): 120.988 ms
+12時32分52秒.639:      ┃ ┣obs_init_module(image-source.so): 0.009 ms
+12時32分52秒.639:      ┃ ┣obs_init_module(linux-alsa.so): 0.004 ms
+12時32分52秒.639:      ┃ ┣obs_init_module(linux-capture.so): 1.478 ms
+12時32分52秒.639:      ┃ ┣obs_init_module(linux-decklink.so): 0.271 ms
+12時32分52秒.639:      ┃ ┣obs_init_module(linux-jack.so): 0.003 ms
+12時32分52秒.639:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.003 ms
+12時32分52秒.640:      ┃ ┣obs_init_module(linux-v4l2.so): 7.262 ms
+12時32分52秒.640:      ┃ ┣obs_init_module(obs-browser.so): 0.057 ms
+12時32分52秒.640:      ┃ ┣obs_init_module(obs-ffmpeg.so): 1.189 ms
+12時32分52秒.640:      ┃ ┃ ┗nvenc_check: 1.162 ms
+12時32分52秒.640:      ┃ ┣obs_init_module(obs-filters.so): 0.034 ms
+12時32分52秒.640:      ┃ ┣obs_init_module(obs-libfdk.so): 0.001 ms
+12時32分52秒.640:      ┃ ┣obs_init_module(obs-outputs.so): 0.007 ms
+12時32分52秒.640:      ┃ ┣obs_init_module(obs-transitions.so): 0.013 ms
+12時32分52秒.640:      ┃ ┣obs_init_module(obs-vst.so): 0.003 ms
+12時32分52秒.640:      ┃ ┣obs_init_module(obs-x264.so): 0.002 ms
+12時32分52秒.640:      ┃ ┣obs_init_module(rtmp-services.so): 1.577 ms
+12時32分52秒.640:      ┃ ┣obs_init_module(text-freetype2.so): 0.021 ms
+12時32分52秒.640:      ┃ ┗obs_init_module(vlc-video.so): 3.684 ms
+12時32分52秒.640:      ┣OBSBasic::ResetOutputs: 0.18 ms
+12時32分52秒.640:      ┣OBSBasic::CreateHotkeys: 0.061 ms
+12時32分52秒.640:      ┣OBSBasic::InitService: 3.457 ms
+12時32分52秒.640:      ┣OBSBasic::InitPrimitives: 0.152 ms
+12時32分52秒.640:      ┗OBSBasic::Load: 437.617 ms
+12時32分52秒.640: obs_hotkey_thread(25 ms): min=0.1 ms, median=1.293 ms, max=40.952 ms, 99th percentile=13.677 ms, 99.7844% below 25 ms
+12時32分52秒.640: audio_thread(Audio): min=0 ms, median=3.949 ms, max=50.161 ms, 99th percentile=14.513 ms
+12時32分52秒.641:  ┗receive_audio: min=0.007 ms, median=3.705 ms, max=49.645 ms, 99th percentile=10.748 ms, 0.836653 calls per parent call
+12時32分52秒.641:    ┣buffer_audio: min=0.002 ms, median=0.004 ms, max=0.191 ms, 99th percentile=0.005 ms
+12時32分52秒.641:    ┗do_encode: min=1.086 ms, median=3.687 ms, max=49.626 ms, 99th percentile=10.667 ms
+12時32分52秒.641:      ┗encode(simple_aac_recording): min=1.055 ms, median=3.613 ms, max=28.837 ms, 99th percentile=10.517 ms
+12時32分52秒.641: obs_graphics_thread(16.6667 ms): min=0.144 ms, median=12.091 ms, max=420.249 ms, 99th percentile=31.07 ms, 83.9816% below 16.667 ms
+12時32分52秒.641:  ┣tick_sources: min=0 ms, median=0.058 ms, max=403.526 ms, 99th percentile=0.538 ms
+12時32分52秒.641:  ┣output_frame: min=0.105 ms, median=8.66 ms, max=99.057 ms, 99th percentile=19.137 ms
+12時32分52秒.641:  ┃ ┣gs_context(video->graphics): min=0.105 ms, median=8.538 ms, max=99.055 ms, 99th percentile=18.81 ms
+12時32分52秒.641:  ┃ ┃ ┣render_video: min=0.024 ms, median=8.406 ms, max=98.967 ms, 99th percentile=18.603 ms
+12時32分52秒.641:  ┃ ┃ ┃ ┣render_main_texture: min=0.019 ms, median=0.656 ms, max=54.679 ms, 99th percentile=3.594 ms
+12時32分52秒.641:  ┃ ┃ ┃ ┣render_output_texture: min=0.068 ms, median=0.122 ms, max=14.959 ms, 99th percentile=0.956 ms, 0.700837 calls per parent call
+12時32分52秒.642:  ┃ ┃ ┃ ┣render_convert_texture: min=0.105 ms, median=0.173 ms, max=38.029 ms, 99th percentile=1.369 ms, 0.700837 calls per parent call
+12時32分52秒.642:  ┃ ┃ ┃ ┗stage_output_texture: min=5.955 ms, median=7.753 ms, max=45.606 ms, 99th percentile=17.563 ms, 0.700837 calls per parent call
+12時32分52秒.642:  ┃ ┃ ┣gs_flush: min=0.006 ms, median=0.01 ms, max=49.039 ms, 99th percentile=0.786 ms
+12時32分52秒.642:  ┃ ┃ ┗download_frame: min=0.001 ms, median=0.031 ms, max=7.878 ms, 99th percentile=0.131 ms, 0.700837 calls per parent call
+12時32分52秒.642:  ┃ ┗output_video_data: min=0.001 ms, median=0.002 ms, max=8.984 ms, 99th percentile=0.959 ms, 0.700702 calls per parent call
+12時32分52秒.642:  ┗render_displays: min=0.003 ms, median=2.807 ms, max=152.017 ms, 99th percentile=17.218 ms
+12時32分52秒.642: video_thread(video): min=0.001 ms, median=10.806 ms, max=473.744 ms, 99th percentile=234.218 ms
+12時32分52秒.642:  ┗receive_video: min=1.446 ms, median=3.776 ms, max=187.992 ms, 99th percentile=109.88 ms, 2.44835 calls per parent call
+12時32分52秒.642:    ┗do_encode: min=1.442 ms, median=3.763 ms, max=187.989 ms, 99th percentile=109.876 ms
+12時32分52秒.642:      ┗encode(simple_h264_recording): min=1.432 ms, median=3.637 ms, max=187.932 ms, 99th percentile=109.83 ms
+12時32分52秒.642: =================================================
+12時32分52秒.642: == Profiler Time Between Calls ==================
+12時32分52秒.642: obs_hotkey_thread(25 ms): min=25.156 ms, median=26.541 ms, max=120.342 ms, 5.77835% within ±2% of 25 ms (0% lower, 94.2216% higher)
+12時32分52秒.643: obs_graphics_thread(16.6667 ms): min=4.456 ms, median=16.667 ms, max=420.256 ms, 55.7612% within ±2% of 16.667 ms (22.5584% lower, 21.6804% higher)
+12時32分52秒.643: =================================================
+12時32分53秒.435: Number of memory leaks: 0

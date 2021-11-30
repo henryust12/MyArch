@@ -1,0 +1,267 @@
+21時42分12秒.739: CPU Name: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx
+21時42分12秒.739: CPU Speed: 1989.556MHz
+21時42分12秒.739: Physical Cores: 4, Logical Cores: 8
+21時42分12秒.739: Physical Memory: 15723MB Total, 6494MB Free
+21時42分12秒.739: Kernel Version: Linux 5.10.81-1-lts
+21時42分12秒.739: Distribution: ArcoLinux Unknown
+21時42分12秒.739: Session Type: x11
+21時42分12秒.739: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+21時42分12秒.741: Portable mode: false
+21時42分12秒.820: OBS 27.1.3-1 (linux)
+21時42分12秒.820: ---------------------------------
+21時42分12秒.821: ---------------------------------
+21時42分12秒.821: audio settings reset:
+21時42分12秒.821: 	samples per sec: 48000
+21時42分12秒.821: 	speakers:        2
+21時42分12秒.823: ---------------------------------
+21時42分12秒.823: Initializing OpenGL...
+21時42分12秒.959: Loading up OpenGL on adapter AMD AMD Radeon Vega 8 Graphics (RAVEN, DRM 3.40.0, 5.10.81-1-lts, LLVM 13.0.0)
+21時42分12秒.959: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.2.5, shading language 4.60
+21時42分13秒.056: ---------------------------------
+21時42分13秒.056: video settings reset:
+21時42分13秒.056: 	base resolution:   1920x1080
+21時42分13秒.056: 	output resolution: 852x480
+21時42分13秒.056: 	downscale filter:  Lanczos
+21時42分13秒.056: 	fps:               60/1
+21時42分13秒.056: 	format:            NV12
+21時42分13秒.056: 	YUV mode:          709/Partial
+21時42分13秒.056: NV12 texture support not available
+21時42分13秒.061: Audio monitoring device:
+21時42分13秒.061: 	name: Default
+21時42分13秒.061: 	id: default
+21時42分13秒.061: ---------------------------------
+21時42分13秒.063: Failed to load 'en-US' text for module: 'decklink-captions.so'
+21時42分13秒.066: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+21時42分13秒.192: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+21時42分13秒.192: No blackmagic support
+21時42分13秒.207: v4l2loopback not installed, virtual camera disabled
+21時42分13秒.214: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+21時42分13秒.214: 
+21時42分13秒.214: FFMPEG VAAPI supported
+21時42分13秒.224: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7: cannot open shared object file: No such file or directory
+21時42分13秒.224: 
+21時42分13秒.224: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+21時42分13秒.226: ---------------------------------
+21時42分13秒.226:   Loaded Modules:
+21時42分13秒.226:     text-freetype2.so
+21時42分13秒.226:     rtmp-services.so
+21時42分13秒.226:     obs-x264.so
+21時42分13秒.226:     obs-transitions.so
+21時42分13秒.226:     obs-outputs.so
+21時42分13秒.226:     obs-libfdk.so
+21時42分13秒.226:     obs-filters.so
+21時42分13秒.226:     obs-ffmpeg.so
+21時42分13秒.226:     linux-v4l2.so
+21時42分13秒.226:     linux-pulseaudio.so
+21時42分13秒.226:     linux-jack.so
+21時42分13秒.226:     linux-decklink.so
+21時42分13秒.226:     linux-capture.so
+21時42分13秒.226:     linux-alsa.so
+21時42分13秒.226:     image-source.so
+21時42分13秒.226:     frontend-tools.so
+21時42分13秒.226:     decklink-ouput-ui.so
+21時42分13秒.226:     decklink-captions.so
+21時42分13秒.226: ---------------------------------
+21時42分13秒.226: ==== Startup complete ===============================================
+21時42分13秒.232: All scene data cleared
+21時42分13秒.232: ------------------------------------------------
+21時42分13秒.243: pulse-input: Server name: 'pulseaudio 15.0'
+21時42分13秒.243: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+21時42分13秒.243: pulse-input: Started recording from 'alsa_output.pci-0000_05_00.6.analog-stereo.monitor'
+21時42分13秒.243: [Loaded global audio device]: 'Desktop Audio'
+21時42分13秒.399: pulse-input: Server name: 'pulseaudio 15.0'
+21時42分13秒.400: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+21時42分13秒.400: pulse-input: Started recording from 'alsa_input.pci-0000_05_00.6.analog-stereo'
+21時42分13秒.400: [Loaded global audio device]: 'Mic/Aux'
+21時42分13秒.411: v4l2-input: Start capture from /dev/video0
+21時42分13秒.659: v4l2-input: Input: 0
+21時42分13秒.664: v4l2-input: Resolution: 640x480
+21時42分13秒.664: v4l2-input: Pixelformat: YUYV
+21時42分13秒.664: v4l2-input: Linesize: 1280 Bytes
+21時42分13秒.664: v4l2-input: Framerate: 30.00 fps
+21時42分13秒.665: v4l2-input: /dev/video0: select timeout set to 166666us (5x frame periods)
+21時42分13秒.719: xcompcap: [window-capture: 'console'] update settings:
+21時42分13秒.719: 	title: shima@shima:~
+21時42分13秒.719: 	class: urxvt
+21時42分13秒.719: 	Bit depth: 32
+21時42分13秒.719: 	Found proper GLXFBConfig (in 368): yes
+21時42分13秒.719: 
+21時42分13秒.921: xshm-input: Geometry 1920x1080 @ 0,0
+21時42分13秒.927: Switched to scene 'screen'
+21時42分13秒.927: ------------------------------------------------
+21時42分13秒.927: Loaded scenes:
+21時42分13秒.927: - scene 'screen':
+21時42分13秒.930:     - source: 'Screen Capture (XSHM)' (xshm_input)
+21時42分13秒.930: - scene 'virtual box':
+21時42分13秒.930:     - source: 'virt' (xcomposite_input)
+21時42分13秒.930: - scene 'Browser':
+21時42分13秒.930:     - source: 'firefox' (xcomposite_input)
+21時42分13秒.930: - scene 'camera':
+21時42分13秒.930:     - source: 'webcam' (v4l2_input)
+21時42分13秒.930: - scene 'terminal':
+21時42分13秒.930:     - source: 'console' (xcomposite_input)
+21時42分13秒.930: - scene 'based scene':
+21時42分13秒.930:     - source: 'shima tech' (image_source)
+21時42分13秒.930: ------------------------------------------------
+21時42分13秒.961: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+21時42分13秒.961: 
+21時42分17秒.884: ==== Recording Start ===============================================
+21時42分36秒.048: Output 'adv_ffmpeg_output': stopping
+21時42分36秒.048: Output 'adv_ffmpeg_output': Total frames output: 1089
+21時42分36秒.048: Output 'adv_ffmpeg_output': Total drawn frames: 1062 (1091 attempted)
+21時42分36秒.048: Output 'adv_ffmpeg_output': Number of lagged frames due to rendering lag/stalls: 29 (2.7%)
+21時42分36秒.048: ==== Recording Stop ================================================
+21時43分31秒.628: ---------------------------------
+21時43分31秒.628: video settings reset:
+21時43分31秒.628: 	base resolution:   1920x1080
+21時43分31秒.628: 	output resolution: 1920x1080
+21時43分31秒.628: 	downscale filter:  Lanczos
+21時43分31秒.628: 	fps:               60/1
+21時43分31秒.628: 	format:            NV12
+21時43分31秒.628: 	YUV mode:          709/Partial
+21時43分31秒.629: NV12 texture support not available
+21時43分31秒.631: Settings changed (video)
+21時43分31秒.631: ------------------------------------------------
+21時43分33秒.250: ==== Recording Start ===============================================
+21時43分42秒.037: Output 'adv_ffmpeg_output': stopping
+21時43分42秒.037: Output 'adv_ffmpeg_output': Total frames output: 525
+21時43分42秒.037: Output 'adv_ffmpeg_output': Total drawn frames: 499 (528 attempted)
+21時43分42秒.037: Output 'adv_ffmpeg_output': Number of lagged frames due to rendering lag/stalls: 29 (5.5%)
+21時43分42秒.038: ==== Recording Stop ================================================
+21時44分24秒.598: ==== Recording Start ===============================================
+21時46分27秒.760: Output 'adv_ffmpeg_output': stopping
+21時46分27秒.760: Output 'adv_ffmpeg_output': Total frames output: 7139
+21時46分27秒.760: Output 'adv_ffmpeg_output': Total drawn frames: 6483 (7389 attempted)
+21時46分27秒.760: Output 'adv_ffmpeg_output': Number of lagged frames due to rendering lag/stalls: 906 (12.3%)
+21時46分27秒.760: ==== Recording Stop ================================================
+21時46分27秒.773: Video stopped, number of skipped frames due to encoding lag: 771/7386 (10.4%)
+21時48分52秒.318: ==== Recording Start ===============================================
+21時49分06秒.614: Output 'adv_ffmpeg_output': stopping
+21時49分06秒.615: Output 'adv_ffmpeg_output': Total frames output: 854
+21時49分06秒.615: Output 'adv_ffmpeg_output': Total drawn frames: 835 (857 attempted)
+21時49分06秒.615: Output 'adv_ffmpeg_output': Number of lagged frames due to rendering lag/stalls: 22 (2.6%)
+21時49分06秒.615: ==== Recording Stop ================================================
+21時50分09秒.107: Switched to Preview/Program mode
+21時50分09秒.107: ------------------------------------------------
+21時50分09秒.859: Switched to scene 'screen'
+21時50分09秒.860: Switched to regular Preview mode
+21時50分09秒.861: ------------------------------------------------
+21時55分39秒.601: xshm-input: Geometry 1920x1080 @ 0,0
+21時55分41秒.122: User switched to scene 'based scene'
+21時55分43秒.222: User switched to scene 'screen'
+21時55分44秒.141: User switched to scene 'based scene'
+21時55分44秒.829: User switched to scene 'virtual box'
+21時55分45秒.148: User switched to scene 'screen'
+21時55分51秒.672: User switched to scene 'virtual box'
+21時55分53秒.344: User switched to scene 'based scene'
+21時56分07秒.862: User added scene 'screen normal'
+21時56分07秒.863: User switched to scene 'screen normal'
+21時56分30秒.381: xshm-input: Geometry 1920x1080 @ 0,0
+21時56分30秒.387: User added source 'Screen Capture (XSHM) 2' (xshm_input) to scene 'screen normal'
+21時56分56秒.409: User added scene 'screen zoom left top'
+21時56分56秒.410: User added source 'Screen Capture (XSHM) 2' (xshm_input) to scene 'screen zoom left top'
+21時56分56秒.420: Switched to scene 'screen zoom left top'
+21時57分04秒.641: User added scene 'screen zoom left bottom'
+21時57分04秒.642: User added source 'Screen Capture (XSHM) 2' (xshm_input) to scene 'screen zoom left bottom'
+21時57分04秒.654: Switched to scene 'screen zoom left bottom'
+21時57分17秒.493: User added scene 'screen zoom right top'
+21時57分17秒.493: User added source 'Screen Capture (XSHM) 2' (xshm_input) to scene 'screen zoom right top'
+21時57分17秒.508: Switched to scene 'screen zoom right top'
+21時57分23秒.859: User added scene 'screen zoom right bottom'
+21時57分23秒.860: User added source 'Screen Capture (XSHM) 2' (xshm_input) to scene 'screen zoom right bottom'
+21時57分23秒.877: Switched to scene 'screen zoom right bottom'
+21時57分34秒.539: User switched to scene 'screen zoom left bottom'
+21時57分35秒.025: User switched to scene 'screen zoom left top'
+21時57分36秒.566: User switched to scene 'screen zoom right bottom'
+21時57分40秒.081: User switched to scene 'screen zoom right top'
+21時57分40秒.125: User Removed scene 'screen zoom right bottom'
+21時57分41秒.919: User switched to scene 'screen zoom left bottom'
+21時57分41秒.950: User Removed scene 'screen zoom right top'
+21時57分46秒.827: User switched to scene 'screen zoom left top'
+21時57分46秒.891: User Removed scene 'screen zoom left bottom'
+21時58分18秒.576: xshm-input: Geometry 1920x1080 @ 0,0
+21時59分35秒.458: User switched to scene 'screen normal'
+21時59分35秒.467: User Removed scene 'screen zoom left top'
+21時59分38秒.323: User switched to scene 'virtual box'
+21時59分38秒.846: User switched to scene 'screen'
+21時59分43秒.280: User switched to scene 'screen normal'
+21時59分45秒.108: User switched to scene 'based scene'
+21時59分45秒.113: User Removed scene 'screen normal'
+21時59分46秒.194: User switched to scene 'screen'
+21時59分55秒.818: xshm-input: Geometry 1920x1080 @ 0,0
+22時00分04秒.057: Source 'screen' renamed to 'screen normal'
+22時13分59秒.766: xshm-input: Geometry 1920x1080 @ 0,0
+22時14分12秒.787: User added scene 'screen zoom top left'
+22時14分12秒.788: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'screen zoom top left'
+22時14分12秒.795: Switched to scene 'screen zoom top left'
+22時14分50秒.631: ---------------------------------
+22時14分50秒.631: video settings reset:
+22時14分50秒.631: 	base resolution:   1920x1080
+22時14分50秒.631: 	output resolution: 1920x1080
+22時14分50秒.631: 	downscale filter:  Lanczos
+22時14分50秒.631: 	fps:               60/1
+22時14分50秒.631: 	format:            NV12
+22時14分50秒.631: 	YUV mode:          709/Partial
+22時14分50秒.631: NV12 texture support not available
+22時15分10秒.999: ---------------------------------
+22時15分10秒.999: video settings reset:
+22時15分10秒.999: 	base resolution:   1920x1080
+22時15分10秒.999: 	output resolution: 1920x1080
+22時15分10秒.999: 	downscale filter:  Lanczos
+22時15分10秒.999: 	fps:               60/1
+22時15分10秒.999: 	format:            NV12
+22時15分10秒.999: 	YUV mode:          709/Partial
+22時15分10秒.999: NV12 texture support not available
+22時15分44秒.969: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'screen zoom top left'
+22時15分49秒.864: User Removed source 'Screen Capture (XSHM)' (xshm_input) from scene 'screen zoom top left'
+22時16分00秒.569: xshm-input: Geometry 1920x1080 @ 0,0
+22時16分58秒.603: xshm-input: Geometry 1920x1080 @ 0,0
+22時18分22秒.804: xshm-input: Geometry 1920x1080 @ 0,0
+22時19分14秒.292: User switched to scene 'based scene'
+22時19分14秒.937: User switched to scene 'screen zoom top left'
+22時19分21秒.710: User switched to scene 'based scene'
+22時19分22秒.254: User switched to scene 'screen zoom top left'
+22時19分23秒.326: User switched to scene 'based scene'
+22時19分24秒.246: User switched to scene 'screen zoom top left'
+22時19分40秒.803: xshm-input: Geometry 1920x1080 @ 0,0
+22時20分55秒.430: User added scene 'screen zoom bot left'
+22時20分55秒.430: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'screen zoom bot left'
+22時20分55秒.441: Switched to scene 'screen zoom bot left'
+22時21分13秒.833: User switched to scene 'screen zoom top left'
+22時21分14秒.909: User switched to scene 'screen zoom bot left'
+22時21分15秒.890: User switched to scene 'screen zoom top left'
+22時21分16秒.776: User switched to scene 'based scene'
+22時21分17秒.387: User switched to scene 'screen zoom top left'
+22時21分18秒.285: User switched to scene 'screen zoom bot left'
+22時21分19秒.759: User switched to scene 'screen zoom top left'
+22時21分20秒.343: User switched to scene 'screen zoom bot left'
+22時21分23秒.074: User switched to scene 'screen zoom top left'
+22時21分23秒.081: User Removed scene 'screen zoom bot left'
+22時21分23秒.984: User switched to scene 'based scene'
+22時21分25秒.023: User switched to scene 'screen zoom top left'
+22時21分43秒.756: Source 'screen zoom top left' renamed to 'screen zoom bot left'
+22時21分59秒.894: User added scene 'screen zoom top left'
+22時21分59秒.895: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'screen zoom top left'
+22時21分59秒.902: Switched to scene 'screen zoom top left'
+22時22分19秒.715: User switched to scene 'screen zoom bot left'
+22時22分21秒.792: User switched to scene 'screen zoom top left'
+22時22分22秒.750: User switched to scene 'screen zoom bot left'
+22時22分23秒.146: User switched to scene 'screen zoom top left'
+22時22分25秒.492: User switched to scene 'screen zoom bot left'
+22時23分03秒.358: User added scene 'screen zoom bot right'
+22時23分03秒.359: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'screen zoom bot right'
+22時23分03秒.366: Switched to scene 'screen zoom bot right'
+22時23分18秒.110: User switched to scene 'screen zoom top left'
+22時23分21秒.340: User switched to scene 'screen zoom bot right'
+22時23分22秒.876: User switched to scene 'screen zoom bot left'
+22時23分26秒.160: User switched to scene 'screen zoom bot right'
+22時23分29秒.531: User switched to scene 'screen zoom top left'
+22時23分37秒.909: User added scene 'screen zoom top right'
+22時23分37秒.909: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'screen zoom top right'
+22時23分37秒.916: Switched to scene 'screen zoom top right'
+22時24分17秒.642: User switched to scene 'screen zoom bot left'
+22時24分18秒.422: User switched to scene 'screen zoom top right'
+22時24分19秒.159: User switched to scene 'screen zoom bot left'
+22時24分26秒.041: User switched to scene 'screen zoom top right'
+22時25分46秒.968: User switched to scene 'screen zoom top left'
+22時25分53秒.290: User switched to scene 'screen normal'

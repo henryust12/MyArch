@@ -1,0 +1,880 @@
+13時26分07秒.258: CPU Name: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx
+13時26分07秒.258: CPU Speed: 1606.490MHz
+13時26分07秒.259: Physical Cores: 4, Logical Cores: 8
+13時26分07秒.259: Physical Memory: 15723MB Total, 6971MB Free
+13時26分07秒.259: Kernel Version: Linux 5.10.81-1-lts
+13時26分07秒.259: Distribution: ArcoLinux Unknown
+13時26分07秒.259: Session Type: x11
+13時26分07秒.259: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+13時26分07秒.260: Portable mode: false
+13時26分07秒.341: OBS 27.1.3-1 (linux)
+13時26分07秒.341: ---------------------------------
+13時26分07秒.341: ---------------------------------
+13時26分07秒.341: audio settings reset:
+13時26分07秒.341: 	samples per sec: 48000
+13時26分07秒.341: 	speakers:        2
+13時26分07秒.344: ---------------------------------
+13時26分07秒.344: Initializing OpenGL...
+13時26分07秒.486: Loading up OpenGL on adapter AMD AMD Radeon Vega 8 Graphics (RAVEN, DRM 3.40.0, 5.10.81-1-lts, LLVM 13.0.0)
+13時26分07秒.487: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.2.5, shading language 4.60
+13時26分07秒.513: ---------------------------------
+13時26分07秒.513: video settings reset:
+13時26分07秒.513: 	base resolution:   1920x1080
+13時26分07秒.513: 	output resolution: 852x480
+13時26分07秒.513: 	downscale filter:  Bicubic
+13時26分07秒.513: 	fps:               60/1
+13時26分07秒.513: 	format:            NV12
+13時26分07秒.513: 	YUV mode:          709/Partial
+13時26分07秒.513: NV12 texture support not available
+13時26分07秒.518: Audio monitoring device:
+13時26分07秒.518: 	name: Default
+13時26分07秒.518: 	id: default
+13時26分07秒.518: ---------------------------------
+13時26分07秒.520: Failed to load 'en-US' text for module: 'decklink-captions.so'
+13時26分07秒.522: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+13時26分07秒.639: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+13時26分07秒.640: No blackmagic support
+13時26分07秒.651: v4l2loopback not installed, virtual camera disabled
+13時26分07秒.657: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+13時26分07秒.657: 
+13時26分07秒.657: FFMPEG VAAPI supported
+13時26分07秒.667: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7: cannot open shared object file: No such file or directory
+13時26分07秒.667: 
+13時26分07秒.667: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+13時26分07秒.668: ---------------------------------
+13時26分07秒.668:   Loaded Modules:
+13時26分07秒.668:     text-freetype2.so
+13時26分07秒.668:     rtmp-services.so
+13時26分07秒.668:     obs-x264.so
+13時26分07秒.668:     obs-transitions.so
+13時26分07秒.668:     obs-outputs.so
+13時26分07秒.668:     obs-libfdk.so
+13時26分07秒.668:     obs-filters.so
+13時26分07秒.668:     obs-ffmpeg.so
+13時26分07秒.668:     linux-v4l2.so
+13時26分07秒.668:     linux-pulseaudio.so
+13時26分07秒.668:     linux-jack.so
+13時26分07秒.668:     linux-decklink.so
+13時26分07秒.668:     linux-capture.so
+13時26分07秒.668:     linux-alsa.so
+13時26分07秒.668:     image-source.so
+13時26分07秒.668:     frontend-tools.so
+13時26分07秒.668:     decklink-ouput-ui.so
+13時26分07秒.668:     decklink-captions.so
+13時26分07秒.668: ---------------------------------
+13時26分07秒.668: ==== Startup complete ===============================================
+13時26分07秒.673: All scene data cleared
+13時26分07秒.673: ------------------------------------------------
+13時26分07秒.683: pulse-input: Server name: 'pulseaudio 15.0'
+13時26分07秒.683: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+13時26分07秒.683: pulse-input: Started recording from 'bluez_sink.38_18_4C_23_DB_4D.a2dp_sink.monitor'
+13時26分07秒.683: [Loaded global audio device]: 'Desktop Audio'
+13時26分08秒.177: pulse-input: Server name: 'pulseaudio 15.0'
+13時26分08秒.178: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+13時26分08秒.178: pulse-input: Started recording from 'alsa_input.pci-0000_05_00.6.analog-stereo'
+13時26分08秒.178: [Loaded global audio device]: 'Mic/Aux'
+13時26分08秒.179: xshm-input: Geometry 1920x1080 @ 0,0
+13時26分08秒.195: v4l2-input: Start capture from /dev/video0
+13時26分08秒.289: v4l2-input: Input: 0
+13時26分08秒.294: v4l2-input: Resolution: 640x360
+13時26分08秒.294: v4l2-input: Pixelformat: YUYV
+13時26分08秒.294: v4l2-input: Linesize: 1280 Bytes
+13時26分08秒.294: v4l2-input: Framerate: 30.00 fps
+13時26分08秒.295: v4l2-input: /dev/video0: select timeout set to 166666us (5x frame periods)
+13時26分08秒.364: xcompcap: [window-capture: 'console'] update settings:
+13時26分08秒.364: 	title: shima@shima:~
+13時26分08秒.364: 	class: urxvt
+13時26分08秒.364: 	Bit depth: 32
+13時26分08秒.364: 	Found proper GLXFBConfig (in 368): yes
+13時26分08秒.364: 
+13時26分08秒.581: Switched to scene 'virtual box'
+13時26分08秒.581: ------------------------------------------------
+13時26分08秒.581: Loaded scenes:
+13時26分08秒.581: - scene 'screen':
+13時26分08秒.581:     - source: 'Screen Capture (XSHM)' (xshm_input)
+13時26分08秒.581: - scene 'virtual box':
+13時26分08秒.581:     - source: 'virt' (xcomposite_input)
+13時26分08秒.581: - scene 'Browser':
+13時26分08秒.581:     - source: 'firefox' (xcomposite_input)
+13時26分08秒.581: - scene 'camera':
+13時26分08秒.581:     - source: 'webcam' (v4l2_input)
+13時26分08秒.581: - scene 'terminal':
+13時26分08秒.581:     - source: 'console' (xcomposite_input)
+13時26分08秒.581: - scene 'based scene':
+13時26分08秒.581:     - source: 'shima tech' (image_source)
+13時26分08秒.581: ------------------------------------------------
+13時26分08秒.862: adding 64 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: Desktop Audio)
+13時26分08秒.862: 
+13時26分11秒.159: ---------------------------------
+13時26分11秒.159: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時26分11秒.163: [x264 encoder: 'simple_h264_stream'] settings:
+13時26分11秒.163: 	rate_control: CBR
+13時26分11秒.163: 	bitrate:      2500
+13時26分11秒.163: 	buffer size:  2500
+13時26分11秒.163: 	crf:          23
+13時26分11秒.163: 	fps_num:      60
+13時26分11秒.163: 	fps_den:      1
+13時26分11秒.163: 	width:        852
+13時26分11秒.163: 	height:       480
+13時26分11秒.163: 	keyint:       250
+13時26分11秒.163: 
+13時26分11秒.195: libfdk_aac encoder created
+13時26分11秒.195: libfdk_aac bitrate: 160, channels: 2
+13時26分11秒.214: ==== Recording Start ===============================================
+13時26分11秒.214: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-26-11.mkv'...
+13時26分14秒.228: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-26-11.mkv' stopped
+13時26分14秒.228: Output 'simple_file_output': stopping
+13時26分14秒.228: Output 'simple_file_output': Total frames output: 155
+13時26分14秒.228: Output 'simple_file_output': Total drawn frames: 180 (181 attempted)
+13時26分14秒.228: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.6%)
+13時26分14秒.229: ==== Recording Stop ================================================
+13時26分14秒.231: libfdk_aac encoder destroyed
+13時26分18秒.248: ---------------------------------
+13時26分18秒.248: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時26分18秒.248: [x264 encoder: 'simple_h264_stream'] settings:
+13時26分18秒.248: 	rate_control: CBR
+13時26分18秒.248: 	bitrate:      2500
+13時26分18秒.248: 	buffer size:  2500
+13時26分18秒.248: 	crf:          23
+13時26分18秒.248: 	fps_num:      60
+13時26分18秒.248: 	fps_den:      1
+13時26分18秒.248: 	width:        852
+13時26分18秒.248: 	height:       480
+13時26分18秒.248: 	keyint:       250
+13時26分18秒.248: 
+13時26分18秒.251: libfdk_aac encoder created
+13時26分18秒.251: libfdk_aac bitrate: 160, channels: 2
+13時26分18秒.253: ==== Recording Start ===============================================
+13時26分18秒.254: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-26-18.mkv'...
+13時26分21秒.490: User switched to scene 'screen'
+13時26分27秒.064: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-26-18.mkv' stopped
+13時26分27秒.064: Output 'simple_file_output': stopping
+13時26分27秒.064: Output 'simple_file_output': Total frames output: 500
+13時26分27秒.064: Output 'simple_file_output': Total drawn frames: 527 (528 attempted)
+13時26分27秒.064: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.2%)
+13時26分27秒.064: ==== Recording Stop ================================================
+13時26分27秒.068: libfdk_aac encoder destroyed
+13時29分15秒.428: User switched to scene 'camera'
+13時29分21秒.341: User switched to scene 'screen'
+13時29分22秒.675: User switched to scene 'virtual box'
+13時29分23秒.437: User switched to scene 'screen'
+13時30分00秒.964: Settings changed (hotkeys)
+13時30分00秒.964: ------------------------------------------------
+13時30分04秒.124: Starting recording due to hotkey
+13時30分04秒.130: ---------------------------------
+13時30分04秒.130: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時30分04秒.130: [x264 encoder: 'simple_h264_stream'] settings:
+13時30分04秒.130: 	rate_control: CBR
+13時30分04秒.130: 	bitrate:      2500
+13時30分04秒.130: 	buffer size:  2500
+13時30分04秒.130: 	crf:          23
+13時30分04秒.130: 	fps_num:      60
+13時30分04秒.130: 	fps_den:      1
+13時30分04秒.130: 	width:        852
+13時30分04秒.130: 	height:       480
+13時30分04秒.130: 	keyint:       250
+13時30分04秒.130: 
+13時30分04秒.134: libfdk_aac encoder created
+13時30分04秒.134: libfdk_aac bitrate: 160, channels: 2
+13時30分04秒.137: ==== Recording Start ===============================================
+13時30分04秒.137: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-30-04.mkv'...
+13時30分06秒.499: Stopping recording due to hotkey
+13時30分06秒.965: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-30-04.mkv' stopped
+13時30分06秒.965: Output 'simple_file_output': stopping
+13時30分06秒.965: Output 'simple_file_output': Total frames output: 142
+13時30分06秒.965: Output 'simple_file_output': Total drawn frames: 169
+13時30分06秒.966: ==== Recording Stop ================================================
+13時30分06秒.968: libfdk_aac encoder destroyed
+13時30分09秒.639: Starting recording due to hotkey
+13時30分09秒.644: ---------------------------------
+13時30分09秒.645: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時30分09秒.645: [x264 encoder: 'simple_h264_stream'] settings:
+13時30分09秒.645: 	rate_control: CBR
+13時30分09秒.645: 	bitrate:      2500
+13時30分09秒.645: 	buffer size:  2500
+13時30分09秒.645: 	crf:          23
+13時30分09秒.645: 	fps_num:      60
+13時30分09秒.645: 	fps_den:      1
+13時30分09秒.645: 	width:        852
+13時30分09秒.645: 	height:       480
+13時30分09秒.645: 	keyint:       250
+13時30分09秒.645: 
+13時30分09秒.647: libfdk_aac encoder created
+13時30分09秒.648: libfdk_aac bitrate: 160, channels: 2
+13時30分09秒.650: ==== Recording Start ===============================================
+13時30分09秒.650: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-30-09.mkv'...
+13時30分15秒.638: Stopping recording due to hotkey
+13時30分16秒.115: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-30-09.mkv' stopped
+13時30分16秒.115: Output 'simple_file_output': stopping
+13時30分16秒.115: Output 'simple_file_output': Total frames output: 361
+13時30分16秒.115: Output 'simple_file_output': Total drawn frames: 387 (388 attempted)
+13時30分16秒.115: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.3%)
+13時30分16秒.115: ==== Recording Stop ================================================
+13時30分16秒.119: libfdk_aac encoder destroyed
+13時30分23秒.011: Starting recording due to hotkey
+13時30分23秒.019: ---------------------------------
+13時30分23秒.019: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時30分23秒.019: [x264 encoder: 'simple_h264_stream'] settings:
+13時30分23秒.019: 	rate_control: CBR
+13時30分23秒.019: 	bitrate:      2500
+13時30分23秒.019: 	buffer size:  2500
+13時30分23秒.019: 	crf:          23
+13時30分23秒.019: 	fps_num:      60
+13時30分23秒.019: 	fps_den:      1
+13時30分23秒.019: 	width:        852
+13時30分23秒.019: 	height:       480
+13時30分23秒.019: 	keyint:       250
+13時30分23秒.019: 
+13時30分23秒.023: libfdk_aac encoder created
+13時30分23秒.023: libfdk_aac bitrate: 160, channels: 2
+13時30分23秒.027: ==== Recording Start ===============================================
+13時30分23秒.027: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-30-23.mkv'...
+13時30分30秒.312: Stopping recording due to hotkey
+13時30分30秒.790: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-30-23.mkv' stopped
+13時30分30秒.790: Output 'simple_file_output': stopping
+13時30分30秒.790: Output 'simple_file_output': Total frames output: 438
+13時30分30秒.790: Output 'simple_file_output': Total drawn frames: 462 (466 attempted)
+13時30分30秒.790: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 4 (0.9%)
+13時30分30秒.791: ==== Recording Stop ================================================
+13時30分30秒.797: libfdk_aac encoder destroyed
+13時31分11秒.644: Settings changed (outputs)
+13時31分11秒.644: ------------------------------------------------
+13時32分36秒.957: Settings changed (hotkeys)
+13時32分36秒.957: ------------------------------------------------
+13時33分09秒.980: Settings changed (hotkeys)
+13時33分09秒.980: ------------------------------------------------
+13時33分14秒.092: User switched to scene 'Browser'
+13時33分15秒.775: User switched to scene 'terminal'
+13時33分16秒.673: User switched to scene 'based scene'
+13時33分18秒.977: User switched to scene 'screen'
+13時33分19秒.869: User switched to scene 'terminal'
+13時33分20秒.262: User switched to scene 'based scene'
+13時33分25秒.076: User switched to scene 'screen'
+13時33分28秒.165: User switched to scene 'virtual box'
+13時33分29秒.109: User switched to scene 'screen'
+13時34分03秒.867: Starting recording due to hotkey
+13時34分03秒.873: ---------------------------------
+13時34分03秒.873: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時34分03秒.873: [x264 encoder: 'simple_h264_stream'] settings:
+13時34分03秒.873: 	rate_control: CBR
+13時34分03秒.873: 	bitrate:      2500
+13時34分03秒.873: 	buffer size:  2500
+13時34分03秒.873: 	crf:          23
+13時34分03秒.873: 	fps_num:      60
+13時34分03秒.873: 	fps_den:      1
+13時34分03秒.873: 	width:        852
+13時34分03秒.873: 	height:       480
+13時34分03秒.873: 	keyint:       250
+13時34分03秒.873: 
+13時34分03秒.877: libfdk_aac encoder created
+13時34分03秒.877: libfdk_aac bitrate: 160, channels: 2
+13時34分03秒.879: ==== Recording Start ===============================================
+13時34分03秒.879: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-34-03.mp4'...
+13時34分06秒.297: Stopping recording due to hotkey
+13時34分06秒.754: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-34-03.mp4' stopped
+13時34分06秒.754: Output 'simple_file_output': stopping
+13時34分06秒.754: Output 'simple_file_output': Total frames output: 146
+13時34分06秒.754: Output 'simple_file_output': Total drawn frames: 173
+13時34分06秒.755: ==== Recording Stop ================================================
+13時34分06秒.758: libfdk_aac encoder destroyed
+13時34分09秒.759: Starting recording due to hotkey
+13時34分09秒.765: ---------------------------------
+13時34分09秒.765: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時34分09秒.765: [x264 encoder: 'simple_h264_stream'] settings:
+13時34分09秒.765: 	rate_control: CBR
+13時34分09秒.765: 	bitrate:      2500
+13時34分09秒.765: 	buffer size:  2500
+13時34分09秒.765: 	crf:          23
+13時34分09秒.765: 	fps_num:      60
+13時34分09秒.765: 	fps_den:      1
+13時34分09秒.765: 	width:        852
+13時34分09秒.765: 	height:       480
+13時34分09秒.765: 	keyint:       250
+13時34分09秒.765: 
+13時34分09秒.769: libfdk_aac encoder created
+13時34分09秒.769: libfdk_aac bitrate: 160, channels: 2
+13時34分09秒.771: ==== Recording Start ===============================================
+13時34分09秒.771: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-34-09.mp4'...
+13時34分10秒.731: Stopping recording due to hotkey
+13時34分11秒.197: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-34-09.mp4' stopped
+13時34分11秒.197: Output 'simple_file_output': stopping
+13時34分11秒.197: Output 'simple_file_output': Total frames output: 58
+13時34分11秒.197: Output 'simple_file_output': Total drawn frames: 85
+13時34分11秒.197: ==== Recording Stop ================================================
+13時34分11秒.200: libfdk_aac encoder destroyed
+13時34分12秒.272: Starting recording due to hotkey
+13時34分12秒.279: ---------------------------------
+13時34分12秒.279: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時34分12秒.279: [x264 encoder: 'simple_h264_stream'] settings:
+13時34分12秒.279: 	rate_control: CBR
+13時34分12秒.279: 	bitrate:      2500
+13時34分12秒.279: 	buffer size:  2500
+13時34分12秒.279: 	crf:          23
+13時34分12秒.279: 	fps_num:      60
+13時34分12秒.279: 	fps_den:      1
+13時34分12秒.279: 	width:        852
+13時34分12秒.279: 	height:       480
+13時34分12秒.279: 	keyint:       250
+13時34分12秒.279: 
+13時34分12秒.283: libfdk_aac encoder created
+13時34分12秒.283: libfdk_aac bitrate: 160, channels: 2
+13時34分12秒.285: ==== Recording Start ===============================================
+13時34分12秒.285: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-34-12.mp4'...
+13時34分13秒.060: Stopping recording due to hotkey
+13時34分13秒.531: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-34-12.mp4' stopped
+13時34分13秒.531: Output 'simple_file_output': stopping
+13時34分13秒.531: Output 'simple_file_output': Total frames output: 48
+13時34分13秒.531: Output 'simple_file_output': Total drawn frames: 74
+13時34分13秒.531: ==== Recording Stop ================================================
+13時34分13秒.535: libfdk_aac encoder destroyed
+13時37分15秒.195: ---------------------------------
+13時37分15秒.195: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時37分15秒.195: [x264 encoder: 'simple_h264_stream'] settings:
+13時37分15秒.195: 	rate_control: CBR
+13時37分15秒.195: 	bitrate:      2500
+13時37分15秒.195: 	buffer size:  2500
+13時37分15秒.195: 	crf:          23
+13時37分15秒.195: 	fps_num:      60
+13時37分15秒.195: 	fps_den:      1
+13時37分15秒.195: 	width:        852
+13時37分15秒.195: 	height:       480
+13時37分15秒.195: 	keyint:       250
+13時37分15秒.195: 
+13時37分15秒.199: libfdk_aac encoder created
+13時37分15秒.199: libfdk_aac bitrate: 160, channels: 2
+13時37分15秒.202: ==== Recording Start ===============================================
+13時37分15秒.202: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-37-15.mp4'...
+13時37分26秒.663: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-37-15.mp4' stopped
+13時37分26秒.663: Output 'simple_file_output': stopping
+13時37分26秒.663: Output 'simple_file_output': Total frames output: 661
+13時37分26秒.663: Output 'simple_file_output': Total drawn frames: 687
+13時37分26秒.663: ==== Recording Stop ================================================
+13時37分26秒.667: libfdk_aac encoder destroyed
+13時37分43秒.396: Starting recording due to hotkey
+13時37分43秒.401: ---------------------------------
+13時37分43秒.401: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時37分43秒.401: [x264 encoder: 'simple_h264_stream'] settings:
+13時37分43秒.401: 	rate_control: CBR
+13時37分43秒.401: 	bitrate:      2500
+13時37分43秒.401: 	buffer size:  2500
+13時37分43秒.401: 	crf:          23
+13時37分43秒.401: 	fps_num:      60
+13時37分43秒.401: 	fps_den:      1
+13時37分43秒.401: 	width:        852
+13時37分43秒.401: 	height:       480
+13時37分43秒.401: 	keyint:       250
+13時37分43秒.401: 
+13時37分43秒.404: libfdk_aac encoder created
+13時37分43秒.404: libfdk_aac bitrate: 160, channels: 2
+13時37分43秒.406: ==== Recording Start ===============================================
+13時37分43秒.406: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-37-43.mp4'...
+13時41分30秒.366: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-37-43.mp4' stopped
+13時41分30秒.366: Output 'simple_file_output': stopping
+13時41分30秒.366: Output 'simple_file_output': Total frames output: 13590
+13時41分30秒.366: Output 'simple_file_output': Total drawn frames: 13616 (13617 attempted)
+13時41分30秒.366: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+13時41分30秒.366: ==== Recording Stop ================================================
+13時41分30秒.369: libfdk_aac encoder destroyed
+13時42分19秒.126: User switched to scene 'virtual box'
+13時42分20秒.577: User switched to scene 'screen'
+13時42分22秒.223: User switched to scene 'virtual box'
+13時42分23秒.244: User switched to scene 'screen'
+13時42分29秒.391: xshm-input: Geometry 1920x1080 @ 0,0
+13時42分31秒.094: User switched to scene 'virtual box'
+13時42分36秒.103: xcompcap: [window-capture: 'virt'] update settings:
+13時42分36秒.103: 	title: henryust12/FOM — Mozilla Firefox
+13時42分36秒.103: 	class: Navigator
+13時42分36秒.103: 	Bit depth: 32
+13時42分36秒.103: 	Found proper GLXFBConfig (in 368): yes
+13時42分36秒.103: 
+13時42分36秒.635: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+13時42分36秒.637: xcompcap: [window-capture: 'virt'] update settings:
+13時42分36秒.637: 	title: henryust12/FOM — Mozilla Firefox
+13時42分36秒.637: 	class: Navigator
+13時42分36秒.637: 	Bit depth: 32
+13時42分36秒.637: 	Found proper GLXFBConfig (in 368): yes
+13時42分36秒.637: 
+13時42分37秒.585: xcompcap: cleanup glXDestroyPixmap failed: BadPixmap (invalid Pixmap parameter)
+13時42分38秒.525: User switched to scene 'Browser'
+13時42分38秒.970: User switched to scene 'camera'
+13時42分39秒.362: User switched to scene 'based scene'
+13時42分41秒.067: User switched to scene 'screen'
+13時42分44秒.471: xshm-input: Geometry 1920x1080 @ 0,0
+13時42分59秒.441: pulse-input: Server name: 'pulseaudio 15.0'
+13時42分59秒.441: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+13時42分59秒.441: pulse-input: Started recording from 'alsa_input.pci-0000_05_00.6.analog-stereo'
+13時42分59秒.445: User added source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) to scene 'screen'
+13時43分15秒.905: xshm-input: Geometry 1920x1080 @ 0,0
+13時43分20秒.112: ---------------------------------
+13時43分20秒.112: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時43分20秒.112: [x264 encoder: 'simple_h264_stream'] settings:
+13時43分20秒.112: 	rate_control: CBR
+13時43分20秒.112: 	bitrate:      2500
+13時43分20秒.112: 	buffer size:  2500
+13時43分20秒.112: 	crf:          23
+13時43分20秒.112: 	fps_num:      60
+13時43分20秒.112: 	fps_den:      1
+13時43分20秒.112: 	width:        852
+13時43分20秒.112: 	height:       480
+13時43分20秒.112: 	keyint:       250
+13時43分20秒.112: 
+13時43分20秒.115: libfdk_aac encoder created
+13時43分20秒.115: libfdk_aac bitrate: 160, channels: 2
+13時43分20秒.118: ==== Recording Start ===============================================
+13時43分20秒.118: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-43-20.mp4'...
+13時43分23秒.630: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-43-20.mp4' stopped
+13時43分23秒.631: Output 'simple_file_output': stopping
+13時43分23秒.631: Output 'simple_file_output': Total frames output: 184
+13時43分23秒.631: Output 'simple_file_output': Total drawn frames: 210
+13時43分23秒.631: ==== Recording Stop ================================================
+13時43分23秒.632: libfdk_aac encoder destroyed
+13時43分38秒.026: User Removed source 'Screen Capture (XSHM)' (xshm_input) from scene 'screen'
+13時43分43秒.505: User Removed source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) from scene 'screen'
+13時43分43秒.520: pulse-input: Stopped recording from 'alsa_input.pci-0000_05_00.6.analog-stereo'
+13時43分43秒.520: pulse-input: Got 4407 packets with 1943839 frames
+13時44分02秒.195: xshm-input: Geometry 1920x1080 @ 0,0
+13時44分02秒.201: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'screen'
+13時44分06秒.339: xshm-input: Geometry 1920x1080 @ 0,0
+13時44分58秒.429: User switched to scene 'Browser'
+13時44分58秒.883: User switched to scene 'virtual box'
+13時44分59秒.776: User switched to scene 'screen'
+13時45分32秒.002: ---------------------------------
+13時45分32秒.002: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時45分32秒.002: [x264 encoder: 'simple_h264_stream'] settings:
+13時45分32秒.002: 	rate_control: CBR
+13時45分32秒.002: 	bitrate:      2500
+13時45分32秒.002: 	buffer size:  2500
+13時45分32秒.002: 	crf:          23
+13時45分32秒.002: 	fps_num:      60
+13時45分32秒.002: 	fps_den:      1
+13時45分32秒.002: 	width:        852
+13時45分32秒.002: 	height:       480
+13時45分32秒.002: 	keyint:       250
+13時45分32秒.002: 
+13時45分32秒.006: libfdk_aac encoder created
+13時45分32秒.006: libfdk_aac bitrate: 160, channels: 2
+13時45分32秒.009: ==== Recording Start ===============================================
+13時45分32秒.009: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-45-31.mp4'...
+13時45分56秒.064: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-45-31.mp4' stopped
+13時45分56秒.064: Output 'simple_file_output': stopping
+13時45分56秒.064: Output 'simple_file_output': Total frames output: 1416
+13時45分56秒.064: Output 'simple_file_output': Total drawn frames: 1443
+13時45分56秒.065: ==== Recording Stop ================================================
+13時45分56秒.066: libfdk_aac encoder destroyed
+13時46分27秒.906: ---------------------------------
+13時46分27秒.906: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時46分27秒.906: [x264 encoder: 'simple_h264_stream'] settings:
+13時46分27秒.906: 	rate_control: CBR
+13時46分27秒.906: 	bitrate:      2500
+13時46分27秒.906: 	buffer size:  2500
+13時46分27秒.906: 	crf:          23
+13時46分27秒.906: 	fps_num:      60
+13時46分27秒.906: 	fps_den:      1
+13時46分27秒.906: 	width:        852
+13時46分27秒.906: 	height:       480
+13時46分27秒.906: 	keyint:       250
+13時46分27秒.906: 
+13時46分27秒.910: libfdk_aac encoder created
+13時46分27秒.910: libfdk_aac bitrate: 160, channels: 2
+13時46分27秒.913: ==== Recording Start ===============================================
+13時46分27秒.913: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-46-27.mp4'...
+13時46分41秒.762: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-46-27.mp4' stopped
+13時46分41秒.763: Output 'simple_file_output': stopping
+13時46分41秒.763: Output 'simple_file_output': Total frames output: 804
+13時46分41秒.763: Output 'simple_file_output': Total drawn frames: 831
+13時46分41秒.763: ==== Recording Stop ================================================
+13時46分41秒.774: libfdk_aac encoder destroyed
+13時47分23秒.946: ---------------------------------
+13時47分23秒.946: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時47分23秒.946: [x264 encoder: 'simple_h264_stream'] settings:
+13時47分23秒.946: 	rate_control: CBR
+13時47分23秒.946: 	bitrate:      2500
+13時47分23秒.946: 	buffer size:  2500
+13時47分23秒.946: 	crf:          23
+13時47分23秒.946: 	fps_num:      60
+13時47分23秒.946: 	fps_den:      1
+13時47分23秒.946: 	width:        852
+13時47分23秒.946: 	height:       480
+13時47分23秒.946: 	keyint:       250
+13時47分23秒.946: 
+13時47分23秒.950: libfdk_aac encoder created
+13時47分23秒.950: libfdk_aac bitrate: 160, channels: 2
+13時47分23秒.953: ==== Recording Start ===============================================
+13時47分23秒.953: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-47-23.mp4'...
+13時47分30秒.198: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-47-23.mp4' stopped
+13時47分30秒.198: Output 'simple_file_output': stopping
+13時47分30秒.198: Output 'simple_file_output': Total frames output: 348
+13時47分30秒.198: Output 'simple_file_output': Total drawn frames: 374
+13時47分30秒.198: ==== Recording Stop ================================================
+13時47分30秒.199: libfdk_aac encoder destroyed
+13時48分01秒.960: ---------------------------------
+13時48分01秒.960: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時48分01秒.960: [x264 encoder: 'simple_h264_stream'] settings:
+13時48分01秒.960: 	rate_control: CBR
+13時48分01秒.960: 	bitrate:      2500
+13時48分01秒.960: 	buffer size:  2500
+13時48分01秒.960: 	crf:          23
+13時48分01秒.960: 	fps_num:      60
+13時48分01秒.960: 	fps_den:      1
+13時48分01秒.960: 	width:        852
+13時48分01秒.960: 	height:       480
+13時48分01秒.960: 	keyint:       250
+13時48分01秒.960: 
+13時48分01秒.963: libfdk_aac encoder created
+13時48分01秒.963: libfdk_aac bitrate: 160, channels: 2
+13時48分01秒.965: ==== Recording Start ===============================================
+13時48分01秒.965: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-48-01.mp4'...
+13時48分17秒.310: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-48-01.mp4' stopped
+13時48分17秒.310: Output 'simple_file_output': stopping
+13時48分17秒.310: Output 'simple_file_output': Total frames output: 893
+13時48分17秒.310: Output 'simple_file_output': Total drawn frames: 915 (921 attempted)
+13時48分17秒.310: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 6 (0.7%)
+13時48分17秒.310: ==== Recording Stop ================================================
+13時48分17秒.315: libfdk_aac encoder destroyed
+13時49分04秒.293: User added filter 'Gain' (gain_filter) to source 'Mic/Aux'
+13時49分26秒.646: ---------------------------------
+13時49分26秒.646: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時49分26秒.646: [x264 encoder: 'simple_h264_stream'] settings:
+13時49分26秒.646: 	rate_control: CBR
+13時49分26秒.646: 	bitrate:      2500
+13時49分26秒.646: 	buffer size:  2500
+13時49分26秒.646: 	crf:          23
+13時49分26秒.646: 	fps_num:      60
+13時49分26秒.646: 	fps_den:      1
+13時49分26秒.646: 	width:        852
+13時49分26秒.646: 	height:       480
+13時49分26秒.646: 	keyint:       250
+13時49分26秒.646: 
+13時49分26秒.650: libfdk_aac encoder created
+13時49分26秒.650: libfdk_aac bitrate: 160, channels: 2
+13時49分26秒.652: ==== Recording Start ===============================================
+13時49分26秒.652: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-49-26.mp4'...
+13時49分41秒.937: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-49-26.mp4' stopped
+13時49分41秒.937: Output 'simple_file_output': stopping
+13時49分41秒.937: Output 'simple_file_output': Total frames output: 889
+13時49分41秒.937: Output 'simple_file_output': Total drawn frames: 876 (917 attempted)
+13時49分41秒.937: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 41 (4.5%)
+13時49分41秒.937: ==== Recording Stop ================================================
+13時49分41秒.939: libfdk_aac encoder destroyed
+13時49分56秒.150: User removed filter 'Gain' (gain_filter) from source 'Mic/Aux'
+13時50分14秒.577: ---------------------------------
+13時50分14秒.577: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時50分14秒.577: [x264 encoder: 'simple_h264_stream'] settings:
+13時50分14秒.577: 	rate_control: CBR
+13時50分14秒.577: 	bitrate:      2500
+13時50分14秒.577: 	buffer size:  2500
+13時50分14秒.577: 	crf:          23
+13時50分14秒.577: 	fps_num:      60
+13時50分14秒.577: 	fps_den:      1
+13時50分14秒.577: 	width:        852
+13時50分14秒.577: 	height:       480
+13時50分14秒.577: 	keyint:       250
+13時50分14秒.577: 
+13時50分14秒.580: libfdk_aac encoder created
+13時50分14秒.580: libfdk_aac bitrate: 160, channels: 2
+13時50分14秒.582: ==== Recording Start ===============================================
+13時50分14秒.582: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-50-14.mp4'...
+13時50分22秒.265: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-50-14.mp4' stopped
+13時50分22秒.265: Output 'simple_file_output': stopping
+13時50分22秒.265: Output 'simple_file_output': Total frames output: 434
+13時50分22秒.265: Output 'simple_file_output': Total drawn frames: 441 (461 attempted)
+13時50分22秒.265: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 20 (4.3%)
+13時50分22秒.265: ==== Recording Stop ================================================
+13時50分22秒.267: libfdk_aac encoder destroyed
+13時51分20秒.372: ---------------------------------
+13時51分20秒.372: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時51分20秒.372: [x264 encoder: 'simple_h264_stream'] settings:
+13時51分20秒.372: 	rate_control: CBR
+13時51分20秒.372: 	bitrate:      2500
+13時51分20秒.372: 	buffer size:  2500
+13時51分20秒.372: 	crf:          23
+13時51分20秒.372: 	fps_num:      60
+13時51分20秒.372: 	fps_den:      1
+13時51分20秒.372: 	width:        852
+13時51分20秒.372: 	height:       480
+13時51分20秒.372: 	keyint:       250
+13時51分20秒.372: 
+13時51分20秒.376: libfdk_aac encoder created
+13時51分20秒.376: libfdk_aac bitrate: 160, channels: 2
+13時51分20秒.379: ==== Recording Start ===============================================
+13時51分20秒.379: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-51-20.mp4'...
+13時51分38秒.902: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-51-20.mp4' stopped
+13時51分38秒.902: Output 'simple_file_output': stopping
+13時51分38秒.902: Output 'simple_file_output': Total frames output: 1083
+13時51分38秒.902: Output 'simple_file_output': Total drawn frames: 1103 (1112 attempted)
+13時51分38秒.902: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 9 (0.8%)
+13時51分38秒.902: ==== Recording Stop ================================================
+13時51分38秒.908: libfdk_aac encoder destroyed
+13時52分47秒.061: ---------------------------------
+13時52分47秒.061: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時52分47秒.061: [x264 encoder: 'simple_h264_stream'] settings:
+13時52分47秒.061: 	rate_control: CBR
+13時52分47秒.061: 	bitrate:      2500
+13時52分47秒.061: 	buffer size:  2500
+13時52分47秒.061: 	crf:          23
+13時52分47秒.061: 	fps_num:      60
+13時52分47秒.061: 	fps_den:      1
+13時52分47秒.061: 	width:        852
+13時52分47秒.061: 	height:       480
+13時52分47秒.061: 	keyint:       250
+13時52分47秒.061: 
+13時52分47秒.064: libfdk_aac encoder created
+13時52分47秒.064: libfdk_aac bitrate: 160, channels: 2
+13時52分47秒.067: ==== Recording Start ===============================================
+13時52分47秒.067: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-52-47.mp4'...
+13時52分51秒.529: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-52-47.mp4' stopped
+13時52分51秒.529: Output 'simple_file_output': stopping
+13時52分51秒.529: Output 'simple_file_output': Total frames output: 240
+13時52分51秒.529: Output 'simple_file_output': Total drawn frames: 268
+13時52分51秒.529: ==== Recording Stop ================================================
+13時52分51秒.534: libfdk_aac encoder destroyed
+13時53分40秒.711: ---------------------------------
+13時53分40秒.711: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時53分40秒.711: [x264 encoder: 'simple_h264_stream'] settings:
+13時53分40秒.711: 	rate_control: CBR
+13時53分40秒.711: 	bitrate:      2500
+13時53分40秒.711: 	buffer size:  2500
+13時53分40秒.711: 	crf:          23
+13時53分40秒.711: 	fps_num:      60
+13時53分40秒.711: 	fps_den:      1
+13時53分40秒.711: 	width:        852
+13時53分40秒.711: 	height:       480
+13時53分40秒.711: 	keyint:       250
+13時53分40秒.711: 
+13時53分40秒.714: libfdk_aac encoder created
+13時53分40秒.714: libfdk_aac bitrate: 160, channels: 2
+13時53分40秒.717: ==== Recording Start ===============================================
+13時53分40秒.717: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-53-40.mp4'...
+13時53分49秒.484: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-53-40.mp4' stopped
+13時53分49秒.484: Output 'simple_file_output': stopping
+13時53分49秒.484: Output 'simple_file_output': Total frames output: 498
+13時53分49秒.484: Output 'simple_file_output': Total drawn frames: 500 (526 attempted)
+13時53分49秒.484: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 26 (4.9%)
+13時53分49秒.484: ==== Recording Stop ================================================
+13時53分49秒.490: libfdk_aac encoder destroyed
+13時54分18秒.252: ---------------------------------
+13時54分18秒.252: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+13時54分18秒.252: [x264 encoder: 'simple_h264_stream'] settings:
+13時54分18秒.252: 	rate_control: CBR
+13時54分18秒.252: 	bitrate:      2500
+13時54分18秒.252: 	buffer size:  2500
+13時54分18秒.252: 	crf:          23
+13時54分18秒.252: 	fps_num:      60
+13時54分18秒.252: 	fps_den:      1
+13時54分18秒.252: 	width:        852
+13時54分18秒.252: 	height:       480
+13時54分18秒.252: 	keyint:       250
+13時54分18秒.252: 
+13時54分18秒.256: libfdk_aac encoder created
+13時54分18秒.256: libfdk_aac bitrate: 160, channels: 2
+13時54分18秒.258: ==== Recording Start ===============================================
+13時54分18秒.258: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 13-54-18.mp4'...
+13時54分33秒.294: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 13-54-18.mp4' stopped
+13時54分33秒.294: Output 'simple_file_output': stopping
+13時54分33秒.294: Output 'simple_file_output': Total frames output: 874
+13時54分33秒.294: Output 'simple_file_output': Total drawn frames: 830 (902 attempted)
+13時54分33秒.294: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 72 (8.0%)
+13時54分33秒.294: ==== Recording Stop ================================================
+13時54分33秒.298: libfdk_aac encoder destroyed
+14時04分57秒.259: Settings changed (outputs)
+14時04分57秒.259: ------------------------------------------------
+14時04分59秒.578: ---------------------------------
+14時04分59秒.578: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+14時04分59秒.578: [x264 encoder: 'simple_h264_recording'] profile: high
+14時04分59秒.578: [x264 encoder: 'simple_h264_recording'] settings:
+14時04分59秒.578: 	rate_control: CRF
+14時04分59秒.578: 	bitrate:      0
+14時04分59秒.578: 	buffer size:  0
+14時04分59秒.578: 	crf:          18
+14時04分59秒.578: 	fps_num:      60
+14時04分59秒.578: 	fps_den:      1
+14時04分59秒.578: 	width:        852
+14時04分59秒.578: 	height:       480
+14時04分59秒.578: 	keyint:       250
+14時04分59秒.578: 
+14時04分59秒.581: libfdk_aac encoder created
+14時04分59秒.581: libfdk_aac bitrate: 192, channels: 2
+14時04分59秒.584: ==== Recording Start ===============================================
+14時04分59秒.584: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/shima/2021-11-28 14-04-59.mkv'...
+14時05分59秒.036: Switched to Preview/Program mode
+14時05分59秒.036: ------------------------------------------------
+14時06分00秒.576: Switched to scene 'screen'
+14時06分00秒.589: Switched to regular Preview mode
+14時06分00秒.589: ------------------------------------------------
+14時06分01秒.699: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/shima/2021-11-28 14-04-59.mkv' stopped
+14時06分01秒.699: Output 'simple_file_output': stopping
+14時06分01秒.699: Output 'simple_file_output': Total frames output: 3697
+14時06分01秒.699: Output 'simple_file_output': Total drawn frames: 3454 (3726 attempted)
+14時06分01秒.699: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 272 (7.3%)
+14時06分01秒.705: ==== Recording Stop ================================================
+14時06分01秒.761: libfdk_aac encoder destroyed
+14時08分37秒.602: ---------------------------------
+14時08分37秒.602: video settings reset:
+14時08分37秒.602: 	base resolution:   1920x1080
+14時08分37秒.602: 	output resolution: 852x480
+14時08分37秒.602: 	downscale filter:  Bicubic
+14時08分37秒.602: 	fps:               60/1
+14時08分37秒.602: 	format:            NV12
+14時08分37秒.602: 	YUV mode:          709/Partial
+14時08分37秒.602: NV12 texture support not available
+14時08分37秒.603: Settings changed (outputs, video)
+14時08分37秒.603: ------------------------------------------------
+14時08分41秒.103: ==== Recording Start ===============================================
+14時11分00秒.750: Output 'adv_ffmpeg_output': stopping
+14時11分00秒.751: Output 'adv_ffmpeg_output': Total frames output: 8378
+14時11分00秒.751: Output 'adv_ffmpeg_output': Total drawn frames: 8368 (8379 attempted)
+14時11分00秒.751: Output 'adv_ffmpeg_output': Number of lagged frames due to rendering lag/stalls: 11 (0.1%)
+14時11分00秒.751: ==== Recording Stop ================================================
+14時13分37秒.686: ---------------------------------
+14時13分37秒.686: video settings reset:
+14時13分37秒.686: 	base resolution:   1920x1080
+14時13分37秒.686: 	output resolution: 852x480
+14時13分37秒.686: 	downscale filter:  Lanczos
+14時13分37秒.686: 	fps:               60/1
+14時13分37秒.686: 	format:            NV12
+14時13分37秒.686: 	YUV mode:          709/Partial
+14時13分37秒.686: NV12 texture support not available
+14時13分37秒.687: Settings changed (video)
+14時13分37秒.687: ------------------------------------------------
+14時13分40秒.435: Switched to Preview/Program mode
+14時13分40秒.436: ------------------------------------------------
+14時13分41秒.131: Switched to scene 'screen'
+14時13分41秒.132: Switched to regular Preview mode
+14時13分41秒.132: ------------------------------------------------
+14時13分41秒.576: ==== Recording Start ===============================================
+14時13分46秒.707: Output 'adv_ffmpeg_output': stopping
+14時13分46秒.707: Output 'adv_ffmpeg_output': Total frames output: 306
+14時13分46秒.708: Output 'adv_ffmpeg_output': Total drawn frames: 309
+14時13分46秒.708: ==== Recording Stop ================================================
+14時14分22秒.088: Switched to Preview/Program mode
+14時14分22秒.089: ------------------------------------------------
+14時14分22秒.951: Switched to scene 'screen'
+14時14分22秒.952: Switched to regular Preview mode
+14時14分22秒.952: ------------------------------------------------
+14時14分46秒.399: Settings changed (outputs)
+14時14分46秒.399: ------------------------------------------------
+14時14分48秒.250: ==== Recording Start ===============================================
+14時14分51秒.012: User switched to scene 'virtual box'
+14時14分51秒.453: User switched to scene 'screen'
+14時14分53秒.134: Output 'adv_ffmpeg_output': stopping
+14時14分53秒.134: Output 'adv_ffmpeg_output': Total frames output: 292
+14時14分53秒.134: Output 'adv_ffmpeg_output': Total drawn frames: 293
+14時14分53秒.134: ==== Recording Stop ================================================
+19時48分08秒.908: ==== Shutting down ==================================================
+19時48分08秒.925: X Error: BadWindow (invalid Window parameter), Major opcode: BadValue (integer parameter out of range for operation), Minor opcode: 0, Serial: 3421
+19時48分08秒.925: X Error: BadWindow (invalid Window parameter), Major opcode: 142, Minor opcode: BadWindow (invalid Window parameter), Serial: 3422
+19時48分08秒.934: v4l2-input: /dev/video0: Stopped capture after 689227 frames
+19時48分08秒.968: X Error: BadWindow (invalid Window parameter), Major opcode: BadValue (integer parameter out of range for operation), Minor opcode: 0, Serial: 3426
+19時48分08秒.968: X Error: BadWindow (invalid Window parameter), Major opcode: 142, Minor opcode: BadWindow (invalid Window parameter), Serial: 3427
+19時48分08秒.969: pulse-input: Stopped recording from 'bluez_sink.38_18_4C_23_DB_4D.a2dp_sink.monitor'
+19時48分08秒.969: pulse-input: Got 2220434 packets with 1010791155 frames
+19時48分08秒.972: pulse-input: Stopped recording from 'alsa_input.pci-0000_05_00.6.analog-stereo'
+19時48分08秒.972: pulse-input: Got 2289103 packets with 1010785743 frames
+19時48分08秒.972: All scene data cleared
+19時48分08秒.972: ------------------------------------------------
+19時48分09秒.046: [Scripting] Total detached callbacks: 0
+19時48分09秒.047: Freeing OBS context data
+19時48分09秒.076: == Profiler Results =============================
+19時48分09秒.076: run_program_init: 1522.54 ms
+19時48分09秒.076:  ┣OBSApp::AppInit: 3.178 ms
+19時48分09秒.076:  ┃ ┗OBSApp::InitLocale: 1.315 ms
+19時48分09秒.076:  ┗OBSApp::OBSInit: 1471.04 ms
+19時48分09秒.076:    ┣obs_startup: 30.31 ms
+19時48分09秒.076:    ┗OBSBasic::OBSInit: 1359.61 ms
+19時48分09秒.076:      ┣OBSBasic::InitBasicConfig: 0.136 ms
+19時48分09秒.076:      ┣OBSBasic::ResetAudio: 0.159 ms
+19時48分09秒.076:      ┣OBSBasic::ResetVideo: 176.433 ms
+19時48分09秒.076:      ┣OBSBasic::InitOBSCallbacks: 0.007 ms
+19時48分09秒.076:      ┣OBSBasic::InitHotkeys: 0.052 ms
+19時48分09秒.076:      ┣obs_load_all_modules: 150.26 ms
+19時48分09秒.076:      ┃ ┣obs_init_module(decklink-captions.so): 0.03 ms
+19時48分09秒.076:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.721 ms
+19時48分09秒.076:      ┃ ┣obs_init_module(frontend-tools.so): 106.128 ms
+19時48分09秒.076:      ┃ ┣obs_init_module(image-source.so): 0.008 ms
+19時48分09秒.076:      ┃ ┣obs_init_module(linux-alsa.so): 0.002 ms
+19時48分09秒.076:      ┃ ┣obs_init_module(linux-capture.so): 0.376 ms
+19時48分09秒.076:      ┃ ┣obs_init_module(linux-decklink.so): 0.176 ms
+19時48分09秒.076:      ┃ ┣obs_init_module(linux-jack.so): 0.002 ms
+19時48分09秒.076:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.002 ms
+19時48分09秒.076:      ┃ ┣obs_init_module(linux-v4l2.so): 6.372 ms
+19時48分09秒.077:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.227 ms
+19時48分09秒.077:      ┃ ┃ ┗nvenc_check: 0.199 ms
+19時48分09秒.077:      ┃ ┣obs_init_module(obs-filters.so): 0.03 ms
+19時48分09秒.077:      ┃ ┣obs_init_module(obs-libfdk.so): 0.001 ms
+19時48分09秒.077:      ┃ ┣obs_init_module(obs-outputs.so): 0.001 ms
+19時48分09秒.077:      ┃ ┣obs_init_module(obs-transitions.so): 0.009 ms
+19時48分09秒.077:      ┃ ┣obs_init_module(obs-x264.so): 0.001 ms
+19時48分09秒.077:      ┃ ┣obs_init_module(rtmp-services.so): 0.851 ms
+19時48分09秒.077:      ┃ ┗obs_init_module(text-freetype2.so): 0.011 ms
+19時48分09秒.077:      ┣OBSBasic::ResetOutputs: 0.143 ms
+19時48分09秒.077:      ┣OBSBasic::CreateHotkeys: 0.049 ms
+19時48分09秒.077:      ┣OBSBasic::InitService: 1.655 ms
+19時48分09秒.077:      ┣OBSBasic::InitPrimitives: 0.151 ms
+19時48分09秒.077:      ┗OBSBasic::Load: 911.672 ms
+19時48分09秒.077: obs_hotkey_thread(25 ms): min=0.084 ms, median=0.245 ms, max=203.896 ms, 99th percentile=7.327 ms, 99.9937% below 25 ms
+19時48分09秒.077: audio_thread(Audio): min=0 ms, median=0.115 ms, max=15.511 ms, 99th percentile=0.722 ms
+19時48分09秒.077:  ┗receive_audio: min=0.002 ms, median=0.58 ms, max=15.264 ms, 99th percentile=1.793 ms, 0.0203017 calls per parent call
+19時48分09秒.077:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=0.133 ms, 99th percentile=0.003 ms
+19時48分09秒.077:    ┗do_encode: min=0.118 ms, median=0.576 ms, max=15.255 ms, 99th percentile=1.785 ms
+19時48分09秒.077:      ┣encode(simple_aac): min=0.12 ms, median=0.548 ms, max=1.266 ms, 99th percentile=0.891 ms, 0.0611843 calls per parent call
+19時48分09秒.077:      ┣send_packet: min=0.001 ms, median=0.007 ms, max=13.344 ms, 99th percentile=0.041 ms
+19時48分09秒.077:      ┣encode(simple_aac): min=0.116 ms, median=0.547 ms, max=2.048 ms, 99th percentile=0.916 ms, 0.805556 calls per parent call
+19時48分09秒.077:      ┗encode(simple_aac_recording): min=0.15 ms, median=0.678 ms, max=4.249 ms, 99th percentile=2.366 ms, 0.13326 calls per parent call
+19時48分09秒.077: obs_graphics_thread(16.6667 ms): min=0.167 ms, median=5.11 ms, max=396.476 ms, 99th percentile=19.521 ms, 98.0065% below 16.667 ms
+19時48分09秒.077:  ┣tick_sources: min=0 ms, median=4.2 ms, max=387.309 ms, 99th percentile=8.838 ms
+19時48分09秒.077:  ┣output_frame: min=0.08 ms, median=0.281 ms, max=34.317 ms, 99th percentile=5.989 ms
+19時48分09秒.077:  ┃ ┣gs_context(video->graphics): min=0.08 ms, median=0.28 ms, max=34.317 ms, 99th percentile=5.853 ms
+19時48分09秒.077:  ┃ ┃ ┣render_video: min=0.019 ms, median=0.127 ms, max=34.289 ms, 99th percentile=5.777 ms
+19時48分09秒.077:  ┃ ┃ ┃ ┣render_main_texture: min=0.016 ms, median=0.113 ms, max=16.372 ms, 99th percentile=0.207 ms
+19時48分09秒.077:  ┃ ┃ ┃ ┣render_output_texture: min=0.018 ms, median=0.026 ms, max=6.224 ms, 99th percentile=0.069 ms, 0.181187 calls per parent call
+19時48分09秒.077:  ┃ ┃ ┃ ┣render_convert_texture: min=0.026 ms, median=0.035 ms, max=9.209 ms, 99th percentile=0.089 ms, 0.181187 calls per parent call
+19時48分09秒.077:  ┃ ┃ ┃ ┗stage_output_texture: min=1.512 ms, median=3.406 ms, max=18.81 ms, 99th percentile=9.356 ms, 0.181187 calls per parent call
+19時48分09秒.077:  ┃ ┃ ┣gs_flush: min=0.004 ms, median=0.009 ms, max=2.857 ms, 99th percentile=0.017 ms
+19時48分09秒.077:  ┃ ┃ ┗download_frame: min=0 ms, median=0.006 ms, max=0.279 ms, 99th percentile=0.02 ms, 0.181187 calls per parent call
+19時48分09秒.077:  ┃ ┗output_video_data: min=0.064 ms, median=0.085 ms, max=4.044 ms, 99th percentile=0.201 ms, 0.181043 calls per parent call
+19時48分09秒.077:  ┗render_displays: min=0.003 ms, median=0.452 ms, max=56.775 ms, 99th percentile=10.003 ms
+19時48分09秒.077: video_thread(video): min=0 ms, median=0.566 ms, max=24.694 ms, 99th percentile=1.741 ms
+19時48分09秒.077:  ┗receive_video: min=0.322 ms, median=0.565 ms, max=17.951 ms, 99th percentile=1.581 ms
+19時48分09秒.077:    ┗do_encode: min=0.321 ms, median=0.564 ms, max=17.949 ms, 99th percentile=1.578 ms
+19時48分09秒.077:      ┣encode(simple_h264_stream): min=0.363 ms, median=0.543 ms, max=3.907 ms, 99th percentile=1.579 ms, 0.061595 calls per parent call
+19時48分09秒.077:      ┣send_packet: min=0.002 ms, median=0.018 ms, max=10.07 ms, 99th percentile=0.057 ms
+19時48分09秒.077:      ┣encode(simple_h264_stream): min=0.32 ms, median=0.541 ms, max=13.398 ms, 99th percentile=0.907 ms, 0.80555 calls per parent call
+19時48分09秒.077:      ┗encode(simple_h264_recording): min=0.329 ms, median=0.562 ms, max=17.925 ms, 99th percentile=5.424 ms, 0.132855 calls per parent call
+19時48分09秒.077: OBSBasic::ResetOutputs: min=0.126 ms, median=0.213 ms, max=0.267 ms, 99th percentile=0.267 ms
+19時48分09秒.077: OBSBasic::ResetVideo: min=18.857 ms, median=0 ms, max=21.846 ms, 99th percentile=21.846 ms
+19時48分09秒.077: obs_graphics_thread(16.6667 ms): min=2.384 ms, median=6.012 ms, max=38.769 ms, 99th percentile=16.945 ms, 98.9272% below 16.667 ms
+19時48分09秒.077:  ┣tick_sources: min=1.828 ms, median=4.251 ms, max=22.256 ms, 99th percentile=8.203 ms
+19時48分09秒.077:  ┣output_frame: min=0.177 ms, median=0.341 ms, max=9.013 ms, 99th percentile=5.906 ms
+19時48分09秒.077:  ┃ ┣gs_context(video->graphics): min=0.176 ms, median=0.341 ms, max=8.877 ms, 99th percentile=5.742 ms
+19時48分09秒.077:  ┃ ┃ ┣render_video: min=0.083 ms, median=0.157 ms, max=8.815 ms, 99th percentile=5.664 ms
+19時48分09秒.077:  ┃ ┃ ┃ ┣render_main_texture: min=0.08 ms, median=0.11 ms, max=0.543 ms, 99th percentile=0.19 ms
+19時48分09秒.077:  ┃ ┃ ┃ ┣render_output_texture: min=0.018 ms, median=0.023 ms, max=0.289 ms, 99th percentile=0.052 ms, 0.465121 calls per parent call
+19時48分09秒.077:  ┃ ┃ ┃ ┣render_convert_texture: min=0.025 ms, median=0.033 ms, max=0.432 ms, 99th percentile=0.073 ms, 0.465121 calls per parent call
+19時48分09秒.078:  ┃ ┃ ┃ ┗stage_output_texture: min=2.154 ms, median=3.304 ms, max=8.62 ms, 99th percentile=5.956 ms, 0.465121 calls per parent call
+19時48分09秒.078:  ┃ ┃ ┣gs_flush: min=0.004 ms, median=0.008 ms, max=0.308 ms, 99th percentile=0.018 ms
+19時48分09秒.078:  ┃ ┃ ┗download_frame: min=0 ms, median=0.006 ms, max=0.228 ms, 99th percentile=0.021 ms, 0.465121 calls per parent call
+19時48分09秒.078:  ┃ ┗output_video_data: min=0.06 ms, median=0.083 ms, max=1.86 ms, 99th percentile=0.201 ms, 0.465066 calls per parent call
+19時48分09秒.078:  ┗render_displays: min=0.302 ms, median=0.496 ms, max=24.21 ms, 99th percentile=8.834 ms
+19時48分09秒.078: video_thread(video): min=0.503 ms, median=0.679 ms, max=6.041 ms, 99th percentile=1.434 ms
+19時48分09秒.078: obs_graphics_thread(16.6667 ms): min=0.194 ms, median=5.225 ms, max=220.079 ms, 99th percentile=14.453 ms, 99.1893% below 16.667 ms
+19時48分09秒.078:  ┣tick_sources: min=0.003 ms, median=4.389 ms, max=219.118 ms, 99th percentile=11.429 ms
+19時48分09秒.078:  ┣output_frame: min=0.144 ms, median=0.278 ms, max=6.148 ms, 99th percentile=0.516 ms
+19時48分09秒.078:  ┃ ┣gs_context(video->graphics): min=0.144 ms, median=0.278 ms, max=5.963 ms, 99th percentile=0.516 ms
+19時48分09秒.078:  ┃ ┃ ┣render_video: min=0.031 ms, median=0.119 ms, max=5.903 ms, 99th percentile=0.189 ms
+19時48分09秒.078:  ┃ ┃ ┃ ┣render_main_texture: min=0.025 ms, median=0.115 ms, max=2.142 ms, 99th percentile=0.18 ms
+19時48分09秒.078:  ┃ ┃ ┃ ┣render_output_texture: min=0.018 ms, median=0.023 ms, max=0.164 ms, 99th percentile=0.063 ms, 0.000499801 calls per parent call
+19時48分09秒.078:  ┃ ┃ ┃ ┣render_convert_texture: min=0.026 ms, median=0.033 ms, max=0.106 ms, 99th percentile=0.054 ms, 0.000499801 calls per parent call
+19時48分09秒.078:  ┃ ┃ ┃ ┗stage_output_texture: min=1.874 ms, median=3.569 ms, max=5.69 ms, 99th percentile=4.923 ms, 0.000499801 calls per parent call
+19時48分09秒.078:  ┃ ┃ ┣gs_flush: min=0.004 ms, median=0.009 ms, max=1.106 ms, 99th percentile=0.016 ms
+19時48分09秒.078:  ┃ ┃ ┗download_frame: min=0 ms, median=0.005 ms, max=0.03 ms, 99th percentile=0.009 ms, 0.000499801 calls per parent call
+19時48分09秒.078:  ┃ ┗output_video_data: min=0.062 ms, median=0.078 ms, max=0.19 ms, 99th percentile=0.111 ms, 0.000498138 calls per parent call
+19時48分09秒.078:  ┗render_displays: min=0.005 ms, median=0.478 ms, max=23.806 ms, 99th percentile=1.244 ms
+19時48分09秒.078: video_thread(video): min=0 ms, median=0.641 ms, max=1.167 ms, 99th percentile=0.937 ms
+19時48分09秒.078: =================================================
+19時48分09秒.078: == Profiler Time Between Calls ==================
+19時48分09秒.078: obs_hotkey_thread(25 ms): min=25.131 ms, median=25.324 ms, max=228.968 ms, 71.4959% within ±2% of 25 ms (0% lower, 28.5041% higher)
+19時48分09秒.078: obs_graphics_thread(16.6667 ms): min=3.505 ms, median=16.667 ms, max=396.486 ms, 97.099% within ±2% of 16.667 ms (0.895705% lower, 2.00533% higher)
+19時48分09秒.078: obs_graphics_thread(16.6667 ms): min=6.951 ms, median=16.667 ms, max=38.783 ms, 97.8877% within ±2% of 16.667 ms (1.00056% lower, 1.11173% higher)
+19時48分09秒.078: obs_graphics_thread(16.6667 ms): min=4.382 ms, median=16.667 ms, max=220.091 ms, 98.27% within ±2% of 16.667 ms (0.713444% lower, 1.01657% higher)
+19時48分09秒.078: =================================================
+19時48分09秒.514: Number of memory leaks: 0

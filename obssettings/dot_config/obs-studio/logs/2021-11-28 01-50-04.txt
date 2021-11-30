@@ -1,0 +1,202 @@
+01時50分04秒.289: CPU Name: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx
+01時50分04秒.289: CPU Speed: 1505.984MHz
+01時50分04秒.289: Physical Cores: 4, Logical Cores: 8
+01時50分04秒.290: Physical Memory: 15723MB Total, 10427MB Free
+01時50分04秒.290: Kernel Version: Linux 5.10.81-1-lts
+01時50分04秒.290: Distribution: ArcoLinux Unknown
+01時50分04秒.290: Session Type: x11
+01時50分04秒.290: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+01時50分04秒.291: Portable mode: false
+01時50分04秒.373: OBS 27.0.1.r52.g0698eeda9 (linux)
+01時50分04秒.373: ---------------------------------
+01時50分04秒.373: ---------------------------------
+01時50分04秒.373: audio settings reset:
+01時50分04秒.373: 	samples per sec: 48000
+01時50分04秒.373: 	speakers:        2
+01時50分04秒.378: ---------------------------------
+01時50分04秒.378: Initializing OpenGL...
+01時50分04秒.510: Loading up OpenGL on adapter AMD AMD Radeon Vega 8 Graphics (RAVEN, DRM 3.40.0, 5.10.81-1-lts, LLVM 13.0.0)
+01時50分04秒.510: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.2.5, shading language 4.60
+01時50分04秒.609: ---------------------------------
+01時50分04秒.609: video settings reset:
+01時50分04秒.609: 	base resolution:   1920x1080
+01時50分04秒.609: 	output resolution: 852x480
+01時50分04秒.609: 	downscale filter:  Bicubic
+01時50分04秒.609: 	fps:               60/1
+01時50分04秒.609: 	format:            NV12
+01時50分04秒.609: 	YUV mode:          709/Partial
+01時50分04秒.609: NV12 texture support not available
+01時50分04秒.619: Audio monitoring device:
+01時50分04秒.619: 	name: Default
+01時50分04秒.619: 	id: default
+01時50分04秒.619: ---------------------------------
+01時50分04秒.622: Failed to load 'en-US' text for module: 'decklink-captions.so'
+01時50分04秒.625: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+01時50分04秒.828: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+01時50分04秒.828: No blackmagic support
+01時50分04秒.846: v4l2loopback not installed, virtual camera disabled
+01時50分04秒.851: [obs-browser]: Version 2.14.3
+01時50分04秒.852: [obs-browser]: CEF Version 88.2.8+ge484012+chromium-88.0.4324.150
+01時50分04秒.873: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+01時50分04秒.873: 
+01時50分04秒.873: FFMPEG VAAPI supported
+01時50分04秒.891: os_dlopen(/usr//lib/obs-plugins/obs-x264.so->/usr//lib/obs-plugins/obs-x264.so): libx264.so.161: cannot open shared object file: No such file or directory
+01時50分04秒.891: 
+01時50分04秒.891: Module '/usr//lib/obs-plugins/obs-x264.so' not loaded
+01時50分04秒.902: VLC found, VLC video source enabled
+01時50分04秒.902: ---------------------------------
+01時50分04秒.902:   Loaded Modules:
+01時50分04秒.902:     vlc-video.so
+01時50分04秒.902:     text-freetype2.so
+01時50分04秒.902:     rtmp-services.so
+01時50分04秒.902:     obs-vst.so
+01時50分04秒.902:     obs-transitions.so
+01時50分04秒.902:     obs-outputs.so
+01時50分04秒.902:     obs-libfdk.so
+01時50分04秒.902:     obs-filters.so
+01時50分04秒.902:     obs-ffmpeg.so
+01時50分04秒.902:     obs-browser.so
+01時50分04秒.902:     linux-v4l2.so
+01時50分04秒.902:     linux-pulseaudio.so
+01時50分04秒.902:     linux-jack.so
+01時50分04秒.902:     linux-decklink.so
+01時50分04秒.902:     linux-capture.so
+01時50分04秒.902:     linux-alsa.so
+01時50分04秒.902:     image-source.so
+01時50分04秒.902:     frontend-tools.so
+01時50分04秒.902:     decklink-ouput-ui.so
+01時50分04秒.902:     decklink-captions.so
+01時50分04秒.902: ---------------------------------
+01時50分04秒.903: ==== Startup complete ===============================================
+01時50分04秒.903: Encoder ID 'obs_x264' not found
+01時50分04秒.909: All scene data cleared
+01時50分04秒.909: ------------------------------------------------
+01時50分04秒.922: pulse-input: Server name: 'pulseaudio 15.0'
+01時50分04秒.922: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01時50分04秒.923: pulse-input: Started recording from 'alsa_output.pci-0000_05_00.6.analog-stereo.monitor'
+01時50分04秒.923: [Loaded global audio device]: 'Desktop Audio'
+01時50分05秒.090: pulse-input: Server name: 'pulseaudio 15.0'
+01時50分05秒.090: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01時50分05秒.090: pulse-input: Started recording from 'alsa_input.pci-0000_05_00.6.analog-stereo'
+01時50分05秒.090: [Loaded global audio device]: 'Mic/Aux'
+01時50分05秒.091: xshm-input: Geometry 1920x1080 @ 0,0
+01時50分05秒.109: v4l2-input: Start capture from /dev/video0
+01時50分05秒.360: v4l2-input: Input: 0
+01時50分05秒.365: v4l2-input: Resolution: 640x360
+01時50分05秒.365: v4l2-input: Pixelformat: YUYV
+01時50分05秒.365: v4l2-input: Linesize: 1280 Bytes
+01時50分05秒.365: v4l2-input: Framerate: 30.00 fps
+01時50分05秒.366: v4l2-input: /dev/video0: select timeout set to 166666us (5x frame periods)
+01時50分05秒.579: Switched to scene 'screen'
+01時50分05秒.579: ------------------------------------------------
+01時50分05秒.579: Loaded scenes:
+01時50分05秒.579: - scene 'screen':
+01時50分05秒.582:     - source: 'Screen Capture (XSHM)' (xshm_input)
+01時50分05秒.582: - scene 'virtual box':
+01時50分05秒.582:     - source: 'virt' (xcomposite_input)
+01時50分05秒.582: - scene 'Browser':
+01時50分05秒.582:     - source: 'firefox' (xcomposite_input)
+01時50分05秒.582: - scene 'camera':
+01時50分05秒.582:     - source: 'webcam' (v4l2_input)
+01時50分05秒.582: - scene 'terminal':
+01時50分05秒.582:     - source: 'console' (xcomposite_input)
+01時50分05秒.582: - scene 'based scene':
+01時50分05秒.582:     - source: 'shima tech' (image_source)
+01時50分05秒.582: ------------------------------------------------
+01時50分07秒.633: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+01時50分07秒.633: 
+01時50分26秒.362: User switched to scene 'virtual box'
+01時51分17秒.375: Encoder ID 'obs_x264' not found
+01時51分17秒.376: Settings changed (outputs)
+01時51分17秒.376: ------------------------------------------------
+01時51分19秒.402: ---------------------------------
+01時51分19秒.402: [FFMPEG VAAPI encoder: 'recording_h264'] settings:
+01時51分19秒.402: 	device:       /dev/dri/renderD128
+01時51分19秒.402: 	rate_control: CBR
+01時51分19秒.402: 	profile:      578
+01時51分19秒.402: 	level:        40
+01時51分19秒.402: 	qp:           0
+01時51分19秒.402: 	bitrate:      2500
+01時51分19秒.402: 	maxrate:      2500
+01時51分19秒.402: 	keyint:       120
+01時51分19秒.402: 	width:        852
+01時51分19秒.402: 	height:       480
+01時51分19秒.402: 	b-frames:     0
+01時51分19秒.402: 
+01時51分19秒.403: [FFMPEG VAAPI encoder: 'recording_h264'] Failed to create VAAPI device context: Input/output error
+01時51分21秒.616: Switched to Preview/Program mode
+01時51分21秒.616: ------------------------------------------------
+01時51分23秒.357: Switched to scene 'virtual box'
+01時51分23秒.359: Switched to regular Preview mode
+01時51分23秒.359: ------------------------------------------------
+01時51分40秒.481: Encoder ID 'obs_x264' not found
+01時51分40秒.481: Settings changed (outputs)
+01時51分40秒.481: ------------------------------------------------
+03時47分48秒.012: ==== Shutting down ==================================================
+03時47分48秒.032: v4l2-input: /dev/video0: Stopped capture after 212372 frames
+03時47分48秒.058: X Error: BadWindow (invalid Window parameter), Major opcode: BadValue (integer parameter out of range for operation), Minor opcode: 0, Serial: 613271
+03時47分48秒.058: X Error: BadWindow (invalid Window parameter), Major opcode: 142, Minor opcode: BadWindow (invalid Window parameter), Serial: 613272
+03時47分48秒.058: pulse-input: Stopped recording from 'alsa_output.pci-0000_05_00.6.analog-stereo.monitor'
+03時47分48秒.059: pulse-input: Got 1409461 packets with 311385673 frames
+03時47分48秒.059: pulse-input: Stopped recording from 'alsa_input.pci-0000_05_00.6.analog-stereo'
+03時47分48秒.059: pulse-input: Got 705969 packets with 311471646 frames
+03時47分48秒.059: All scene data cleared
+03時47分48秒.059: ------------------------------------------------
+03時47分48秒.107: [Scripting] Total detached callbacks: 0
+03時47分48秒.124: Freeing OBS context data
+03時47分48秒.142: == Profiler Results =============================
+03時47分48秒.142: run_program_init: 1498.15 ms
+03時47分48秒.142:  ┣OBSApp::AppInit: 4.205 ms
+03時47分48秒.142:  ┃ ┗OBSApp::InitLocale: 2.048 ms
+03時47分48秒.142:  ┗OBSApp::OBSInit: 1444.27 ms
+03時47分48秒.142:    ┣obs_startup: 27.692 ms
+03時47分48秒.142:    ┗OBSBasic::OBSInit: 1334.81 ms
+03時47分48秒.142:      ┣OBSBasic::InitBasicConfig: 0.513 ms
+03時47分48秒.142:      ┣OBSBasic::ResetAudio: 0.136 ms
+03時47分48秒.142:      ┣OBSBasic::ResetVideo: 245.489 ms
+03時47分48秒.142:      ┣OBSBasic::InitOBSCallbacks: 0.005 ms
+03時47分48秒.142:      ┣OBSBasic::InitHotkeys: 0.41 ms
+03時47分48秒.142:      ┣obs_load_all_modules: 282.718 ms
+03時47分48秒.142:      ┃ ┣obs_init_module(decklink-captions.so): 0.026 ms
+03時47分48秒.142:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.662 ms
+03時47分48秒.142:      ┃ ┣obs_init_module(frontend-tools.so): 109.456 ms
+03時47分48秒.142:      ┃ ┣obs_init_module(image-source.so): 0.009 ms
+03時47分48秒.142:      ┃ ┣obs_init_module(linux-alsa.so): 0.003 ms
+03時47分48秒.142:      ┃ ┣obs_init_module(linux-capture.so): 0.521 ms
+03時47分48秒.142:      ┃ ┣obs_init_module(linux-decklink.so): 0.165 ms
+03時47分48秒.142:      ┃ ┣obs_init_module(linux-jack.so): 0.002 ms
+03時47分48秒.142:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.002 ms
+03時47分48秒.143:      ┃ ┣obs_init_module(linux-v4l2.so): 8.2 ms
+03時47分48秒.143:      ┃ ┣obs_init_module(obs-browser.so): 0.053 ms
+03時47分48秒.143:      ┃ ┣obs_init_module(obs-ffmpeg.so): 1.108 ms
+03時47分48秒.143:      ┃ ┃ ┗nvenc_check: 1.076 ms
+03時47分48秒.143:      ┃ ┣obs_init_module(obs-filters.so): 0.03 ms
+03時47分48秒.143:      ┃ ┣obs_init_module(obs-libfdk.so): 0.001 ms
+03時47分48秒.143:      ┃ ┣obs_init_module(obs-outputs.so): 0.003 ms
+03時47分48秒.143:      ┃ ┣obs_init_module(obs-transitions.so): 0.01 ms
+03時47分48秒.143:      ┃ ┣obs_init_module(obs-vst.so): 0.002 ms
+03時47分48秒.143:      ┃ ┣obs_init_module(rtmp-services.so): 1.352 ms
+03時47分48秒.143:      ┃ ┣obs_init_module(text-freetype2.so): 0.013 ms
+03時47分48秒.143:      ┃ ┗obs_init_module(vlc-video.so): 3.22 ms
+03時47分48秒.143:      ┣OBSBasic::ResetOutputs: 0.174 ms
+03時47分48秒.143:      ┣OBSBasic::CreateHotkeys: 0.051 ms
+03時47分48秒.143:      ┣OBSBasic::InitService: 2.265 ms
+03時47分48秒.143:      ┣OBSBasic::InitPrimitives: 0.143 ms
+03時47分48秒.143:      ┗OBSBasic::Load: 679.66 ms
+03時47分48秒.143: obs_hotkey_thread(25 ms): min=0.084 ms, median=0.331 ms, max=226.774 ms, 99th percentile=0.772 ms, 99.9993% below 25 ms
+03時47分48秒.143: audio_thread(Audio): min=0 ms, median=0.068 ms, max=3.529 ms, 99th percentile=0.106 ms
+03時47分48秒.143: obs_graphics_thread(16.6667 ms): min=0.212 ms, median=0.853 ms, max=497.631 ms, 99th percentile=1.498 ms, 99.9988% below 16.667 ms
+03時47分48秒.143:  ┣tick_sources: min=0 ms, median=0.119 ms, max=471.797 ms, 99th percentile=0.7 ms
+03時47分48秒.143:  ┣output_frame: min=0.091 ms, median=0.213 ms, max=16.989 ms, 99th percentile=0.606 ms
+03時47分48秒.143:  ┃ ┗gs_context(video->graphics): min=0.091 ms, median=0.212 ms, max=16.986 ms, 99th percentile=0.605 ms
+03時47分48秒.143:  ┃   ┣render_video: min=0.017 ms, median=0.038 ms, max=6.047 ms, 99th percentile=0.061 ms
+03時47分48秒.143:  ┃   ┃ ┗render_main_texture: min=0.013 ms, median=0.033 ms, max=6.041 ms, 99th percentile=0.054 ms
+03時47分48秒.143:  ┃   ┗gs_flush: min=0.004 ms, median=0.008 ms, max=0.223 ms, 99th percentile=0.014 ms
+03時47分48秒.143:  ┗render_displays: min=0.004 ms, median=0.4 ms, max=9.276 ms, 99th percentile=0.805 ms
+03時47分48秒.143: OBSBasic::ResetOutputs: min=0.175 ms, median=0 ms, max=0.246 ms, 99th percentile=0.246 ms
+03時47分48秒.143: =================================================
+03時47分48秒.143: == Profiler Time Between Calls ==================
+03時47分48秒.143: obs_hotkey_thread(25 ms): min=25.135 ms, median=25.425 ms, max=251.879 ms, 59.0699% within ±2% of 25 ms (0% lower, 40.9301% higher)
+03時47分48秒.143: obs_graphics_thread(16.6667 ms): min=11.81 ms, median=16.667 ms, max=497.647 ms, 98.9555% within ±2% of 16.667 ms (0.518453% lower, 0.526004% higher)
+03時47分48秒.143: =================================================
+03時47分48秒.184: Number of memory leaks: 0
