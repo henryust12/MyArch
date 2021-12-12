@@ -11,4 +11,4 @@
 
 
 # Link:  
-- ![Fix My Laptop WiFi](https://github.com/tomaspinho/rtl8821ce)
+- ![Fix Laptop WiFi](https://github.com/tomaspinho/rtl8821ce)
