@@ -15,6 +15,6 @@
 
 
 # Install japanese keyboard
-- ![Ibus Mozc - Ibus Anthy](https://wiki.archlinux.org/title/Localization/Japanese#Fonts)
+- <a href="https://wiki.archlinux.org/title/Localization/Japanese" target="_blank">Ibus Mozc - Ibus Anthy</a>
 # Install japanese fonts 
 paru -S adobe-source-han-sans-jp-fonts  adobe-source-han-serif-jp-fonts  otf-ipafont  ttf-hanazono ttf-sazanami ttf-koruri ttf-monapo ttf-mplus ttf-vlgothic
